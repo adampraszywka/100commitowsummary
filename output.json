@@ -9,6 +9,7 @@
         "totalChanges": 11228,
         "description": "Relax and Generate CRUD Endpoints. \nSlothful CRUD is a library designed to streamline the creation of CRUD endpoints effortlessly. By implementing the necessary interfaces in domain classes, you can quickly register the library and generate RESTful endpoints. Simplify your API development with Slothful CRUD.",
         "readme_short": "Slothful CRUD is a library that simplifies the creation of CRUD (Create, Read, Update, Delete) endpoints for APIs by automatically generating RESTful endpoints based on domain classes that implement specific interfaces. This tool allows developers to streamline API development by configuring their domain classes, registering Slothful CRUD in their application, and starting the application to generate the endpoints. It includes configurable settings for exposing nested properties, enabling authorization with customizable policies, and managing entities with options for sorting, filtering, validation, and defining key properties. Comprehensive documentation and NuGet packages facilitate easy integration and utilization of the library in projects.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -33,6 +34,7 @@
         "totalChanges": 34013,
         "description": "Lightweight painting app that enables automated tasks and creative suggestions through AI. It connects to both local and online AI models, offering a user-friendly interface for artists of all levels.",
         "readme_short": "Painting Droid is an AI-powered, cross-platform painting application inspired by MS Paint, featuring standard painting tools like brush, annotate, and fill, alongside advanced AI capabilities that enable it to fill or augment selected areas with AI-generated content. The app supports various AI models, including paid and open-source options, and can be used in both web browsers and as a desktop application on Windows, macOS, and Linux. It also supports plugins, allowing for additional customization and functionality. The app is designed with developers in mind, offering easy setup and development through GitHub Codespaces, local machine setup, and Docker containers, and it continues to evolve with planned enhancements such as additional image adjustments, a text annotation tool, and optimized rendering.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -58,6 +60,7 @@
         "totalChanges": 25186,
         "description": "Outbox and Inbox Pattern in .NET (scalability & fault tolerance). \nEnsures reliable network communication (eventual consistency) between services. (microservices, event-driven architecture)",
         "readme_short": "The \"Outbox and Inbox pattern in .NET\" project aims to provide a robust solution for achieving reliable network communication and eventual consistency between distributed services, encapsulated in the concept of \"transactional box\". At its core, the project comprises two main components: the Outbox, which safely stores and sends out messages, and the Inbox, which receives, deduplicates, and processes messages exactly once. It addresses common issues such as lost messages, duplicate processing, and unavailable services while offering extensive features like scalability, fault tolerance, high configurability, and support for performance optimization. The project supports multiple storage and transport providers, including InMemory and Apache Kafka, and is designed to handle complex scenarios like distributed processing and message order maintenance through future enhancements like StreamOutbox and StreamInbox. With easy-to-follow examples, video demos, and comprehensive documentation, the project is user-friendly and aims to be an essential tool for developers dealing with microservices and asynchronous communication in .NET environments.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -83,6 +86,7 @@
         "totalChanges": 9572,
         "description": "A versatile multi-modal chat application that enables users to develop custom agents, create images, leverage visual recognition, and engage in voice interactions. It integrates seamlessly with local LLMs and commercial models like OpenAI, Gemini, Perplexity, and Claude, and allows to converse with uploaded documents and websites.",
         "readme_short": "Stellar Chat is a versatile multi-modal chat application designed to enhance user interaction through custom agent creation, image generation, visual recognition, and voice conversations. The platform integrates both local open-source models and commercial ones such as OpenAI, Gemini, Perplexity, and Claude, enabling seamless engagement with documents and websites. Key features include text-to-speech, speech-to-text, text-to-image generation, multimodal chat capabilities, a prompt store, and the ability to create custom actions for application integration. Additionally, users can deploy the app locally or via Docker, and contribute or customize it using GitHub Codespaces. Stellar Chat is part of the \"100 Commits\" initiative, encouraging daily development contributions over 100 consecutive days. The project is licensed under the MIT License, emphasizing open-source collaboration and innovation.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -107,6 +111,7 @@
         "totalChanges": 5538,
         "description": "WAF - web application firewall. Reverse proxy kt\u00f3re pozwala zabezpiecza\u0107 aplikacje internetowe (bieda cloudflare)",
         "readme_short": "The project \"WAFFLE\" is an open-source Web Application Firewall (WAF) designed to provide robust protection against Distributed Denial of Service (DDOS) attacks and Cross-Site Scripting (XSS) threats, emulating services like CloudFlare but without the associated costs. Written in Go and requiring tools like Npcap, golangci-lint, and OpenSSL, WAFFLE aims to be a modular and freely available reverse proxy solution. While it is still under development and requires Go installed locally to run, the project welcomes contributions from the community to enhance its features and usability, with the ultimate goal of creating a reliable and free alternative for network security.",
+        "language": "Go",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -131,6 +136,7 @@
         "totalChanges": 16680,
         "description": ".NET Client for Apache ActiveMQ Artemis Message Broker using CORE protocol",
         "readme_short": "The .NET CORE Client for Apache ActiveMQ Artemis is an open-source .NET library designed to provide high-performance messaging capabilities by leveraging the CORE protocol of Apache ActiveMQ Artemis. Its primary goal is to facilitate seamless communication and message exchange within .NET applications, offering comprehensive feature support and ensuring compatibility with the Artemis broker. The library includes API interfaces and classes for establishing connections, creating sessions, producing and consuming messages, and setting up necessary infrastructure elements like addresses and queues. With extensive performance benchmarks demonstrating its efficiency, the library is suitable for developers looking to integrate robust messaging solutions into their .NET projects. Though the project is still under active development, it's available for early adoption via NuGet, and tests can be run with an Apache ActiveMQ Artemis server hosted in a Docker container. For production-ready scenarios, an alternative AMQP-based client is also recommended.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -155,6 +161,7 @@
         "totalChanges": 29000,
         "description": "A checkers gaming platform that allows the creation and connection of multiple player implementations, utilizing various algorithms, including recently popular AI variations. It also provides the capability for easy expansion to other games based on a chessboard.",
         "readme_short": "Smart Checkers is a versatile platform for playing the classic game of Checkers, allowing for both human vs. human and human vs. AI gameplay across multiple devices. The platform supports AI-driven players, which can be developed using various algorithms, pre-trained neural networks, and Large Language Models (LLMs) like GPT-4 and Claude 3. The project includes a .NET 8-based WebAPI and an Angular-based user interface that enables seamless interaction. Players can easily create their own AI players by implementing a simple interface, with available AI examples including dummy players and more sophisticated GPT-4-based players. The project hosts a demo version and follows a robust CI/CD pipeline for updates, aiming for future enhancements like persistent game state storage and algorithm-driven AI players. Licensed under the MIT License, Smart Checkers is open to community contributions and improvements.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -179,6 +186,7 @@
         "totalChanges": 41196,
         "description": "Gra na Atari 2600. Chc\u0119 podczas konkursu nauczy\u0107 si\u0119 programowa\u0107 procesor 6502 i przekona\u0107 si\u0119, dlaczego programowanie na Atari 2600 uchodzi za tak trudne. Od kodu, przez projekt p\u0142ytki kartrid\u017ca, a\u017c po etykietk\u0119.",
         "readme_short": "**Berta And Butterflies** is a modern remake of an '80s era LCD game originally part of the \"Game & Watch\" series, specially reimagined for the Atari 2600 console. Developed by a passionate creator, this project not only resurrects a nostalgic game but also adds a personal touch by introducing \"Berta,\" an elephant derived from a cherished childhood toy. The game, encapsulated within a 4KB ROM, presents both a development challenge and a milestone achievement in retro gaming. The repository includes additional hardware projects like a simplified cartridge PCB design and a Super Nintendo controller adapter for diverse play experiences. Beyond the game, the project documents the journey of learning and developing with the highly constrained Atari 2600 hardware, alongside potential future developments like an expanded 8KB version with a real-time clock feature. The game is available for real hardware enthusiasts and emulator users alike, promoting a throwback to simpler yet engaging gameplay.",
+        "language": "Inny",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -203,6 +211,7 @@
         "totalChanges": 38801,
         "description": "Platforma do zarz\u0105dzania Infrastructure as Code. CI/CD dla infastruktury. Generuje zmiany, wdra\u017ca,  pe\u0142ny proces SDLC",
         "readme_short": "Labraboard is an advanced, state-aware Infrastructure as Code (IaC) management platform designed specifically for handling Terraform configurations. Named after the versatile Labrador, the platform aims to simplify and streamline infrastructure management by providing robust state management, lock handling, custom environment configurations, and dynamic backend adjustments. Key features include support for various state storage solutions (InMemory, HTTP, PostgreSQL, Redis), project CRUD operations, time-based leases for states, and customizable user settings. Labraboard enhances the governance and operational efficiency of Terraform, allowing users to focus on building and deploying infrastructure without the associated complexities. Note that Labraboard is currently under active development and not yet deemed ready for production use.",
+        "language": "Go",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -228,6 +237,7 @@
         "totalChanges": 26288,
         "description": "Czy kiedykolwiek by\u0142e\u015b na weselu lub przyj\u0119ciu urodzinowym? Je\u015bli tak, prawdopodobnie widzia\u0142e\u015b tam fotobudk\u0119. A co je\u015bli mogliby\u015bmy przenie\u015b\u0107 t\u0119 zabaw\u0119 do \u015bwiata cyfrowego? Tutaj z pomoc\u0105 przychodzi LensUp. LensUp to aplikacja internetowa, kt\u00f3ra s\u0142u\u017cy jako wirtualna galeria, umo\u017cliwiaj\u0105ca go\u015bciom przesy\u0142anie swoich zdj\u0119\u0107 i \u017cycze\u0144.",
         "readme_short": "**LensUp** is a web application designed to digitalize the fun of traditional event photo booths by providing a virtual gallery where guests can upload photos and write wishes during events such as weddings and birthday parties. Users can interact with a gallery interface, upload their photos through a QR code-enabled form, and see their contributions displayed in real-time. The project utilizes a variety of backend services including .NET Web APIs and Azure Functions, and is built using a monorepo infrastructure for seamless management of multiple components. The application can be run locally using Docker, and is built to minimize costs by simulating Azure services locally. The current development roadmap focuses on core functionality related to photo and wish uploads, with future enhancements planned for authentication, UI improvements, and comprehensive documentation.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -252,6 +262,7 @@
         "totalChanges": 4584,
         "description": "Experimental .NET Profiler. \n\nCurrent version allows running .NET programs under the profiler and collect bunch of useful information about the execution. GC, memory allocations, exceptions and many more. Visualizing that in a, hopefully nice, way.",
         "readme_short": "\"Symmetrical Octo Broccoli\" is an experimental .NET profiler and debugger project designed to gather insights and build a functional profiling tool for .NET applications. Created as part of the #100commitow competition, the project aims to collect detailed runtime information such as allocations, exceptions, garbage collection events, just-in-time (JIT) compilation, and function entry/exit events. With a runnable script (`run.bat`) for ease of use, the project features visualizations including flame graphs and detailed tabs on allocations and exceptions. While the debugging component is currently on hold, the profiler supports both starting and attaching to running binaries, especially for the .NET Framework, and helps in visualizing performance data stored in text files. The project is in continual development, working towards enhancing the profiler's capabilities and potentially realizing its debugging functionalities.",
+        "language": "C++",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -282,6 +293,7 @@
         "totalChanges": 16865,
         "description": "Expense Explorer to prosta aplikacja do \u015bledzenia wydatk\u00f3w, napisana w C#, do u\u017cytku na domowym serwerze. Pozwala zarz\u0105dza\u0107 paragonami, zakupami oraz generowa\u0107 raporty. Projekt s\u0142u\u017cy jako narz\u0119dzie do nauki nowych (dla mnie) technologii, CQRS, Event Store, Monady, FP, itp",
         "readme_short": "Expense Explorer is an expense tracking application designed for personal use on a home server, enabling users to manage receipts, track purchases, and generate expense reports. Developed in C# and utilizing technologies such as .NET 8, EventStore, PostgreSQL, and Blazor with Radzen, the project explores concepts like Event Sourcing, CQRS, and Clean Architecture. Key features include receipt and purchase management, enhanced browsing capabilities, and income tracking, with potential future enhancements like a web-based GUI and OCR integration. The project is currently under development and serves as a learning platform, inviting contributions and improvements from the community.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -306,6 +318,7 @@
         "totalChanges": 20189,
         "description": "Aaron + Sausage = \ud83c\udf2d",
         "readme_short": "Prismeto is a project aimed at empowering engineers to effectively promote their technical content without delving into marketing complexities. The tool simplifies the content distribution process across social media platforms and email newsletters by automating and tailoring the dissemination of blog posts, ensuring engineers can focus on what they do best: solving problems. Initiated by a non-programmer with a keen interest in coding and building practical solutions, the project not only aims to bridge the gap between content creation and marketing but also serves as a personal learning platform for Ruby on Rails development.",
+        "language": "Ruby",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -341,6 +354,7 @@
         "totalChanges": 4718,
         "description": "Mod do gry Minecraft: Java Edition dodaj\u0105cy nowe przedmioty, bloki i zwi\u0105zane z nimi mechaniki.",
         "readme_short": "The \"Squared Additions\" project is a Minecraft: Java Edition mod designed for the Fabric mod loader, which introduces new blocks, items, and enhancements inspired by Vanilla+/Create themes. Developed by a PHP programmer undertaking Java coding and Minecraft modding for the first time, the project aims to inject fun and creativity into the Minecraft experience with features like copper, emerald, and rose gold tools, vertical slabs, and more. The mod integrates with the Fabric API and offers support for multiple languages to cater to a broader audience. The developer encourages community involvement through suggestions, forked contributions, and issue reporting, aiming to continuously expand the mod's content and capabilities.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -365,6 +379,7 @@
         "totalChanges": 5481,
         "description": "Projekt w ramach nauki j\u0119zyka Kotlin. Aplikacja do zarz\u0105dzania finansami osobistymi z funkcj\u0105 skanowania paragon\u00f3w i automatycznego rozpoznawania wydatk\u00f3w.",
         "readme_short": "BudgetBuddy is an Android application developed in Kotlin designed to manage personal finances. It allows users to scan receipts, automatically recognize expenses, manage budgets, and analyze spending. The primary goal of the project is to simplify tracking expenses and optimize financial management for users. The application uses various technologies such as Jetpack Compose, Koin, Room, CameraX, and Material Design 3. Additionally, BudgetBuddy integrates with a server component built with C# and .NET 8. Essential features include expense entry without receipts, editing, deleting expenses, receipt scanning, expense categorization, and local database storage. Future plans involve direct API communication with OpenAI, user authentication, enhanced UI, product price statistics, group functionalities, sharing expenses, pattern recognition in spending, and budget-related notifications.",
+        "language": "Kotlin",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -389,6 +404,7 @@
         "totalChanges": 5708,
         "description": "micro service do zmiany rozdzielczo\u015bci zdj\u0119\u0107, rozszerzenia i optymalizacji rozmiaru.",
         "readme_short": "Respicta is a comprehensive tool that facilitates the resizing and format conversion of images through various interfaces including a library, a CLI, and a web service. It supports converting formats such as GIF to WebP and PNG to JPEG. The CLI offers intuitive commands for easy resizing and format changes, while the web service allows for real-time image conversion. Additionally, Respicta provides capabilities for integration with Docker, Kubernetes, and is also available as a library in Rust. The documentation includes extensive examples and guidelines on how to deploy and use the tool effectively in different environments.",
+        "language": "Rust",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -413,6 +429,7 @@
         "totalChanges": 14580,
         "description": "AI asystent programisty, kt\u00f3rego celem b\u0119dzie nauczenie si\u0119 ca\u0142ego kodu aplikacji, a nast\u0119pnie na podstawie pozyskanych informacji generowanie fragment\u00f3w kodu czy np. analizy pod refimenty.",
         "readme_short": "`assistente.dev` is an innovative developer assistant application designed to streamline the process of managing and retrieving development notes, bookmarks, and code snippets. Through a combination of user-friendly UI and powerful backend capabilities, including integration with OpenAI for intelligent prompt generation, `assistente.dev` offers an efficient solution to consolidate and access crucial development resources. Dockerized components like the UI, API, worker services, and a comprehensive knowledge base make it highly adaptable. The platform leverages modern tech stacks like Blazor, PostgreSQL, Qdrant, and RabbitMQ, and offers seamless workflows for adding and accessing information. Whether you need to recall a specific piece of code or a vital note, `assistente.dev` ensures it\u2019s at your fingertips, boosting productivity and minimizing wasted time.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -437,6 +454,7 @@
         "totalChanges": 9556,
         "description": "Konfigurowalny silnik do wysy\u0142ania webhook\u00f3w z wbudowanym retry policy i circuit breakerem. Zawiera server + sdk + cli. Projekt pos\u0142u\u017cy\u0142 mi do nauki rust.",
         "readme_short": "**webhooks-rs** is a Rust-based project focused on enabling the sending of webhooks via the HTTP protocol, aiming to deliver high performance, configurability, and scalability. Key features include retry policies for failed messages, manual endpoint deactivation, circuit breakers, persistence, a beta SDK and CLI, documentation, and integration tests. The project is actively developed, with plans for additional features like rate-limiting, authentication, signed webhooks, distributed architecture, data retention, and more. It also involves setting up and testing the server and dispatcher components, with a CLI to manage applications, endpoints, and events. Contributions are welcome under the conventional commits guidelines.",
+        "language": "Rust",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -461,6 +479,7 @@
         "totalChanges": 21477,
         "description": "Kompletna platforma IoT zawieraj\u0105ca wszystkie niezb\u0119dne elementy tj. API, WEB, aplikacj\u0119 mobiln\u0105 (iOS/Android) oraz firmware do urz\u0105dze\u0144 IoT (ESP32,ESP01). Celem by\u0142o stworzenie rozwi\u0105zania, kt\u00f3re mo\u017cna wdro\u017cy\u0107 niezale\u017cnie od chmury producenta. Wszystkie aplikacje zako\u0144czono w fazie RC.",
         "readme_short": "The AJKIOTSolution project aims to develop an independent IoT platform, encompassing a web application (AJKIOT.Web) for managing accounts and accesses, a mobile app (ajk_iot_mobile), an API (AJKIOT.Api) to provide endpoints for these applications, and device software (ajk_iot_devices) for ESP32/ESP8266 modules. The main goal is to create a self-sufficient IoT environment that does not rely on manufacturer's cloud services, offering full control even during global network outages. Utilizing technologies such as REST, SignalR, MQTT, and PlatformIO, the platform supports real-time device management and aims for simplicity in installation and maintenance. Users can register devices, install firmware, and control their IoT devices both locally and remotely via the web or mobile apps. The project encourages community involvement and offers resources for public testing and contributions.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -485,6 +504,7 @@
         "totalChanges": 10209,
         "description": "Aplikacja mobilna do monitorowania swoich finans\u00f3w osobistych. G\u0142\u00f3wnie skupia si\u0119 na trzymaniu informacji o kontach, kategoriach, transakcjach (wydatki/dochody) oraz walutach. Raz dziennie pobierane s\u0105 przewalutowania dla domy\u015blnie wybranej waluty z zewn\u0119trznego serwisu. Dost\u0119pna w dw\u00f3ch motywach jasny/ciemny. \n\nNapisana w .NET MAUI na Androida.",
         "readme_short": "Dollet is a personal budget management application designed to consolidate all financial information, including bank accounts, expenses, and income, in one place. Built using .NET MAUI, Dollet provides a modern and user-friendly interface following the MVVM pattern. Key features include managing multiple accounts, categorizing transactions, displaying transaction histories with filtering options, and supporting multiple currencies with real-time currency conversion. Additionally, the app offers customization options such as theme changes and account settings. Dollet aims to serve as a comprehensive digital wallet, simplifying financial management through intuitive design and robust functionality.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -509,6 +529,7 @@
         "totalChanges": 8584,
         "description": "Fiona to ecosystem, kt\u00f3ry umo\u017cliwia w sprawny spos\u00f3b utworzy\u0107 serwer pod REST API.\nNa ten moment w sk\u0142ad ecosystemu Fiona wchodzi:\n1. Prosty Serwer MVC.\n2. Skryptowy j\u0119zyk, dzi\u0119ki kt\u00f3remu mo\u017cemy deklarowa\u0107 endpointy.\n3. GUI , gdzie u\u017cytkownik w spos\u00f3b no-code b\u0119dzie m\u00f3g\u0142 tworzy\u0107 serwer HTTP.\nEcosystem powstaje po aby wprowadzi\u0107 konkurencj\u0119 na runku",
         "readme_short": "Fiona is a web API framework developed in .Net, designed to allow developers to quickly and easily create APIs. The framework's standout feature is an intuitive graphical user interface (GUI) that lets developers design APIs using blocks, akin to creating blueprints in Unreal Engine. While currently relying on HttpListener, there are plans to implement a custom HTTP handshake in the future. The project began as part of the \"100 commit\u00f3w\" competition and is named after the creator's dog, Fiona. Though not yet production-ready, Fiona aims to offer a competitive alternative to ASP.NET by including features like routing, middleware, logging, error handling, and more. Future enhancements are planned, such as Docker support, a robust GUI, and advanced features like caching and user authentication.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -533,6 +554,7 @@
         "totalChanges": 32794,
         "description": "System wspomagaj\u0105cy dost\u0119p do urz\u0105dze\u0144 IoT, umo\u017cliwiaj\u0105cy dostarczanie w\u0142asnych implementacji wsparcia dla r\u00f3\u017cnych urz\u0105dze\u0144. System umo\u017cliwia u\u017cytkownikom obserwacj\u0119 danych z urz\u0105dze\u0144 na panelu UI.",
         "readme_short": "Aura Tower is an open-source project aimed at simplifying the control and monitoring of IoT devices through a user-friendly dashboard. It is highly extensible, allowing users to enhance its functionality by developing custom device drivers. Key features include user authentication, places management, device metrics presentation, and device simulation. Built using technologies such as Nginx, Node.js, TypeScript, Angular, Docker, Java, Spring Boot, and Swagger, Aura Tower provides a robust and flexible platform for IoT device management. The project welcomes community contributions and is licensed under the MIT License. The README file provides detailed installation instructions, usage guidelines, and contribution protocols to help users participate and extend the project's capabilities.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -557,6 +579,7 @@
         "totalChanges": 1827,
         "description": "PokeWars - gra wykonana w Unreal Engine 5, w \u015bwiecie pokemon\u00f3w  z walkami w 1 osobie i mo\u017cliwo\u015bciami tryb\u00f3w attack defense speed ",
         "readme_short": "PokeWars is an open-world survival game set in a prehistoric Pok\u00e9mon universe where players assume the role of a chosen Pok\u00e9mon battling for survival. The gameplay is dynamic, allowing players to switch between attack, speed, and defense modes, each with its unique attributes impacting power, movement speed, and defense. Developed using Unreal Engine 5.3 for game development, Blender 4.0 for modeling, and Visual Studio/Rider for C++ scripting, the game highlights include a main menu, character selection, and health and experience systems. Future plans encompass diverse lands, combat mechanics, skill trees, and adding more Pok\u00e9mon, with long-term goals for licensing, multiplayer features, and new game modes.",
+        "language": "C++",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -580,6 +603,7 @@
         "totalChanges": 21413,
         "description": "Freezbe to darmowa aplikacja do zarz\u0105dzania projektami.\nAplikacja jest responsywna i minimalistyczna, mo\u017cesz j\u0105 uruchomi\u0107 r\u00f3wnie\u017c na swoim urz\u0105dzeniu mobilnym.\nAplikacja wykorzystuje w pe\u0142ni sw\u00f3j potencja\u0142 dzi\u0119ki skr\u00f3tom klawiszowym.\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0youtu.be/E6pg_QPM3Gw\nTRY NOW >>> Freezbe.pl",
         "readme_short": "Freezbe is a privacy-focused task management application designed to keep your data secure by storing it locally rather than sending it to external servers. It features a user-friendly interface optimized for both mobile use and keyboard navigation. The application organizes tasks into a structured hierarchy of zones, workspaces, projects, and task details, which can include comments and other relevant information. Freezbe supports up to four concurrent visible zones to help users manage their tasks efficiently. The app's development is motivated by the creator's desire to build a usable product, practice consistency and reverse engineering, expand their technological stack, and add a compelling project to their CV. Users are cautioned to export their workspace data before clearing their browser to prevent data loss.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -604,6 +628,7 @@
         "totalChanges": 49619,
         "description": "Aplikacja webowa do prowadzenia bud\u017cetu domowego",
         "readme_short": "**BudgetWallet** is a versatile web application focused on managing household budgets, conceived to address the limitations of existing budget management tools and tailored for both mobile and web platforms. Created for the [#100 commit\u00f3w - DevMentors](https://100commitow.pl/) competition, this project aims to provide a user-friendly solution with essential budgeting features such as expense tracking, category management, account transfers, and detailed analytics. Built with a modern tech stack comprising .NET for backend operations and React for the frontend, BudgetWallet employs a clean architecture approach for maintainability and scalability. The project is still evolving, with ongoing enhancements to its user account functionalities and extended platform support. Deployment can be accomplished through manual setup or using Docker, ensuring flexibility in various environments.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -628,6 +653,7 @@
         "totalChanges": 12705,
         "description": "Projekt edukacyjny, kt\u00f3ry wykorzystuje API OpenAI do tworzenia spersonalizowanych quiz\u00f3w na dowolny temat, bez \u017cadnych ogranicze\u0144. Aplikacja umo\u017cliwia tak\u017ce zapisywanie trudniejszych zagadnie\u0144 oraz ich lepsze wyt\u0142umaczenie za pomoc\u0105 ChatGPT, co pomaga w g\u0142\u0119bszym zrozumieniu materia\u0142u.",
         "readme_short": "GPT-QuizBuilder is a project designed to create customized quizzes for educational use by leveraging the OpenAI API. Users can specify quiz topics, duration, and difficulty levels, and receive feedback and explanations to aid their understanding. The application includes features like topic selection, quiz duration control, difficulty adjustment, feedback mechanisms, a repository for unanswered questions, interface translation between English and Polish, and a tutorial page. Future enhancements involve user authentication. The project welcomes contributions and is licensed under the MIT License. A live demo is available to showcase its functionality.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "No",
             "question_2": "Yes",
@@ -652,6 +678,7 @@
         "totalChanges": 6853,
         "description": "B\u0119dzie to pr\u00f3ba stworzenia infrastruktury labowej do test\u00f3w najnowszych technologii, w koncepcji devops.",
         "readme_short": "\"100 Dni do DevOps\" to polskoj\u0119zyczne repozytorium edukacyjne, stworzone z my\u015bl\u0105 o entuzjastach DevOps na r\u00f3\u017cnych poziomach zaawansowania. Projekt oferuje 100-dniowy plan z\u0142o\u017cony z praktycznych zada\u0144, projekt\u00f3w i wyzwa\u0144, kt\u00f3re pokrywaj\u0105 kluczowe aspekty DevOps, od automatyzacji i konteneryzacji po zarz\u0105dzanie infrastruktur\u0105 i bezpiecze\u0144stwo. Repozytorium jest podzielone na 15 tygodniowych modu\u0142\u00f3w tematycznych, obejmuj\u0105cych najnowsze narz\u0119dzia i technologie takie jak Docker, Kubernetes, Terraform, Ansible, Jenkins i wiele innych. U\u017cytkownicy maj\u0105 dost\u0119p do szczeg\u00f3\u0142owych poradnik\u00f3w, skrypt\u00f3w i zasob\u00f3w, kt\u00f3re wspieraj\u0105 proces nauki i praktycznego zastosowania zdobytej wiedzy. Projekt zach\u0119ca do wsp\u00f3\u0142pracy i dzielenia si\u0119 do\u015bwiadczeniami w spo\u0142eczno\u015bci, oferuj\u0105c r\u00f3wnie\u017c liczne materia\u0142y pomocnicze i instrukcje, dost\u0119pne na GitHubie.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -675,6 +702,7 @@
         "totalChanges": 2920,
         "description": "Narz\u0119dzie do zarz\u0105dzania nadanymi uprawnieniami w bazach danych. Wszystkie uprawnienia konfigurowane s\u0105 w centralnym repozytorium, a nast\u0119pnie aplikowane na bazach. Pr\u00f3ba zmiany uprawnienia bezpo\u015brednio na bazie danych zostanie wykryta, a  uprawnienie cofni\u0119te.  Ponadto system wy\u015ble powiadomienie i pokarze incydent w raportach.",
         "readme_short": "DataGuard is a permission management and audit system for SQL Server databases, designed to streamline the authorization process and ensure real-time audit capabilities. The project maintains a central repository for all authorization configurations, automatically synchronizing permissions with the database and notifying administrators of changes. This approach aims to provide accurate, real-time permissions management, surpassing the traditional methods such as those broadcast by Active Directory groups. Currently, a proof of concept has been developed using DacPack, targeting SQL Server 2022, and it incorporates T-SQLt framework for unit testing. This project emphasizes the automation of permission granting and revoking processes, and facilitates the transfer of permissions across different environments like DEV, TEST, and PROD.",
+        "language": "Inny",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -704,6 +732,7 @@
         "totalChanges": 29716,
         "description": "Aplikacja s\u0142u\u017c\u0105ca do organizacji link\u00f3w z serwisu YouTube. U\u017cytkownicy mog\u0105 tworzy\u0107 playlisty i pobiera\u0107 je jednym klikni\u0119ciem w formacie mp3 lub mp4. Istnieje te\u017c mo\u017cliwo\u015b\u0107 importu oraz eksportu stworzonych playlist.",
         "readme_short": "YoutubeLinks is a versatile application that allows users to save YouTube links as playlists and download those playlists as MP3 files. This application integrates a Blazor WebAssembly frontend with a .NET Minimal API backend connected to an MSSQL database, all coordinated via Docker containers. Users can register, verify their email, and manage playlists and links with CRUD operations, including downloading individual links in MP3 or MP4 format. The project uses various modern technologies and packages, such as C# 12, .NET 8.0, MudBlazor, and MediatR, and adheres to a vertical slice architecture for clear feature separation. It includes roles for Admin, User, and Anonymous, and was developed as part of the \"100 Commits\" challenge.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -728,6 +757,7 @@
         "totalChanges": 1652,
         "description": "Easy Dashboard to aplikacja webowa s\u0142u\u017c\u0105ca do tworzenia wizualizacji danych przy u\u017cyciu Dash Plotly.\nCelem jest udost\u0119pnienie prostego, bezp\u0142atnego narz\u0119dzia do tworzenia wizualizacji online.",
         "readme_short": "Easy Dashboard is an application designed for creating data visualizations using Dash and Plotly, developed as part of the 100 commits challenge by DevMentors. The application aims to be a simple and free tool, allowing users to input data through various methods, choose from different chart and map types, and customize visualizations with built-in Plotly templates. While basic functionalities are still being refined, future enhancements plan to include exporting charts to graphic files, advanced customization options, the ability to create user profiles for saving projects, and online project sharing. The application can be accessed online via Heroku or run locally by following the provided installation steps. Contributions to the project are welcomed, and it is licensed under the MIT license.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -752,6 +782,7 @@
         "totalChanges": 41575,
         "description": "Implementacja rozproszonej aplikacji typu BLIK wykorzystuj\u0105ca infrastruktur\u0119 blockchaina Solana. G\u0142\u00f3wne rozwi\u0105zane problemy to losowo\u015b\u0107 kodu oraz skalowalno\u015b\u0107.",
         "readme_short": "dBlik is a distributed payment application inspired by the BLIK system, leveraging the Solana blockchain's low transaction fees and popularity. The project is a work-in-progress aiming to explore and implement smart contracts beyond the creator's native C# comfort zone. dBlik offers a web-based demo and a sample e-commerce store, both operating on the Solana Devnet. Users can engage with the system by installing a compatible wallet, such as Phantom or Solflare, and utilizing funds from the Solana faucet. Key functionalities like code generation and transaction security are managed off-chain due to blockchain limitations. The project roadmap outlines various milestones, including on-chain program development, public testing, and future integration with JavaScript packages and mobile applications. Furthermore, the README provides comprehensive setup instructions for deploying both the smart contract and client applications using tools like Rust, Cargo, Solana CLI, and Anchor.",
+        "language": "Rust",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -782,6 +813,7 @@
         "totalChanges": 19456,
         "description": "Aplikacja pozwalaj\u0105ca na \u015bledzenie swoich portfeli inwestycyjnych.",
         "readme_short": "PortfolioEye is an open-source application designed for individual investors to track and analyze their investment portfolios across various asset classes, including stocks and bonds, with plans to extend support to cryptocurrencies and real estate. The application offers features such as the ability to manage multiple portfolios, an intuitive interface for easy investment tracking, and privacy through self-hosting options. The project, developed in C# using Blazor WebAssembly and PostgreSQL, includes functionalities like user accounts, portfolio management, and real-time stock price fetching, with future goals to incorporate Polish retail treasury bonds and comprehensive portfolio valuation. A demo is available, and the project encourages community contributions under the AGPLv3 license.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -806,6 +838,7 @@
         "totalChanges": 16778,
         "description": "API Simulator to narz\u0119dzie, kt\u00f3re \"symuluje\" prawdziwe API,ale bez internetu.\nAPIS b\u0119dzie zwraca\u0107 i zachowywa\u0107 si\u0119 jak prawdziwe API. B\u0119dzie mo\u017cna w Panelu \"sterowa\u0107\" odpowiedzi jakie dane ma wysy\u0142a\u0107,",
         "readme_short": "The API Simulator is an upcoming open-source project that aims to enable developers to locally simulate APIs without relying on an internet connection, providing them with a controlled environment to configure responses and data via a planned panel. This tool is designed to help developers bypass the limitations and availability issues of real API testing servers, facilitating easier development and testing of applications. The project, initiated as part of the \"100 commits\" challenge by DevMentors, plans to use Docker for deployment and includes future expansion to support various API providers. Contributions are welcome to enhance features, fix bugs, or improve documentation, and the project intends to be licensed under the MIT License.",
+        "language": "PHP",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -833,6 +866,7 @@
         "totalChanges": 12448,
         "description": "translord - simple TMS to get your translations up and running in no time.",
         "readme_short": "**translord** is a simple Translation Management System (TMS) designed to streamline and manage translation tasks within a project. It offers functionalities for storing, translating, delivering, managing, and revising translations. The core library\u2014available as a NuGet package\u2014can be extended with additional packages for DeepL API integration, Entity Framework support with Postgres configuration, an admin panel for editing and managing translations, and Redis for caching. The project supports different storage implementations, including file storage and custom implementations, and offers easy configuration for both web applications and console apps. Planned future enhancements include AI-based translations, role-based access for the CMS panel, and translation revisions. The project is still in early stages of development and encourages users to contribute ideas and suggestions.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -857,6 +891,7 @@
         "totalChanges": 7095,
         "description": "A place to play gomoku for everyone",
         "readme_short": "The Gomoku project is a web-based application designed to facilitate playing Gomoku, an abstract strategy game also known as Five in a Row. With a feature of one-button matchmaking, it aims to streamline the game setup process, allowing players to jump directly into the game without the hassle of creating accounts or searching for matches. Developed using .Net for the backend, SignalR and web API for communication, and Svelte for the frontend, the project aspires to create a modern Gomoku platform that supports casual games, ranked tournaments, and a variety of community features. Planned enhancements include in-game chat, player accounts, statistics, leaderboards, game saving/loading, a public API, tournament systems, and more. Contributions to the project are encouraged, and it is part of the #100commitow challenge, emphasizing continuous development and improvement. The project is licensed under the MIT License.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -881,6 +916,7 @@
         "totalChanges": 4827,
         "description": "Aplikacja cross-platformowa polegaj\u0105ca na stworzeniu w\u0142asnej bazy wiedzy, zapisywaniu swoich my\u015bli oraz uporz\u0105dkowanie informacji na tablicy w postaci notatek z r\u00f3\u017cnymi funkcjonalno\u015bciami",
         "readme_short": "NoteSHR is a cross-platform application designed to help users create and organize their knowledge database, thoughts, and ideas in a creative way. It facilitates functionalities like dragging and resizing notes, adding and editing note nodes, and importing/exporting boards. Currently available as a web and desktop version, it is built using C# and relies on libraries such as Avalonia, ReactiveUI, and Newtonsoft.Json. With future plans to enhance the application's aesthetics, introduce features like zooming and collaboration API, and expand to mobile platforms, NoteSHR aims to be a comprehensive tool for personal information management. The project requires .NET 8 and specific workloads for different platforms, and it offers detailed build and run instructions along with a link to its web version for immediate use.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -915,6 +951,7 @@
         "totalChanges": 2541,
         "description": "Osobisty asystent, kt\u00f3ry pomaga w codziennych zadaniach i pomaga zautomatyzowa\u0107 nudne rzeczy",
         "readme_short": "The \"Personal Assistant\" project aims to create a virtual assistant to simplify daily tasks through a Command Line Interface (CLI) or a Discord bot, leveraging the capabilities of Generative AI to enhance productivity. Built for the [100 commit\u00f3w](https://100commitow.pl/) competition, its development is structured over 100 days as an open-source endeavor. The project utilizes technologies like Python, Flask, PostgreSQL, Docker, and GitHub Actions. Current features include a dockerized environment, CI/CD pipeline, basic tests, token-based authentication, multiple communication endpoints, and several functional commands for the Discord bot including video and page summarization and text fixing. Future enhancements will focus on expanding chatbot functionalities, adding commands, and incorporating user memory for context-aware interactions. Detailed documentation and further development plans are available in the project repository.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -938,6 +975,7 @@
         "totalChanges": 22272,
         "description": "SurveyStore it is.",
         "readme_short": "SurveyStore is an intuitive application designed to assist professionals in maintaining and managing their survey equipment and associated daily tasks. Developed as part of the \"100commitow\" challenge by DevMentors, it offers features such as equipment tracking, task scheduling, and notifications for important reminders and maintenance alerts. Built using modern technologies like Domain-Driven Design with Clean Architecture, .NET 5.0, Entity Framework, and PostgreSQL, SurveyStore ensures reliability, scalability, and high performance. It emphasizes thorough testing methodologies, including unit, integration, and end-to-end testing, to maintain superior quality. The project welcomes contributions and is licensed under the MIT License, with additional support available via the GitHub issue tracker.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -961,6 +999,7 @@
         "totalChanges": 10842,
         "description": "Online chess game. Human vs. AI.",
         "readme_short": "The Chess Game project is a web application designed to allow users to play chess against an AI opponent in real-time. Built using modern technologies such as Spring Boot for the backend, Vite for the frontend, and Docker for containerization, the application provides an interactive user interface for making moves and communicating with the AI. It also includes features for browsing game history and saving results, although these are still in progress. The project can be easily set up by cloning the repository, navigating to the project directory, and running it via Docker Compose. The codebase is actively maintained, with automated CI workflows ensuring the quality and stability of the application. The project is open-source and licensed under the MIT License.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -984,6 +1023,7 @@
         "totalChanges": 1611,
         "description": "Offline dotnet tool that converts images to pdf securely. It can be used to merge or split pdfs. Offline tool with no cloud reliance. ",
         "readme_short": "PrivatePdfConverter is a secure and efficient offline tool for converting locally stored PNG files into comprehensive PDF documents using a user-friendly terminal interface. Designed to safeguard user privacy by performing all operations offline and independent of cloud services, it provides a reliable solution for combining or manipulating PDF files without compromising sensitive data. This CLI tool supports various functionalities including merging PDFs, encrypting documents, adding watermarks, and handling multiple image formats. Installation is straightforward via the .NET tool command, making it convenient for users seeking a small, offline, and secure method to manage their PDF conversions. Future updates are expected to introduce advanced features like PDF splitting and enhanced menu interfaces.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1008,6 +1048,7 @@
         "totalChanges": 23763,
         "description": "Web-portfolio to aplikacja w React do prezentowania projekt\u00f3w i umiej\u0119tno\u015bci. Moim priorytetem w niej by\u0142a nauka researchu ux oraz projektowania designu.",
         "readme_short": "The \"Portfolio App\" is a project aimed at creating a personal web portfolio to showcase the developer's projects and skills. It includes essential features such as an \"About Me\" page with a CV link, a detailed skills section, a projects page, and an application top bar with navigation and social media links. The app supports multiple languages (Polish and English), and its development follows a meticulous work plan, from UX research and design to implementation and usability testing. The project is part of the \"100 Commits\" Challenge, advocating for daily contributions to open source projects. Future enhancements include additional project pages, contact forms with captcha, Google Analytics integration, and backend support for mailing features. The project is licensed under Creative Commons Attribution 4.0 International License.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "No",
             "question_2": "Yes",
@@ -1032,6 +1073,7 @@
         "totalChanges": 22825,
         "description": "Travel planner is a web application primarily designed to help users plan their trips.\nBackend built with Django DRF. Postgres DB. Frontend built with Vue.",
         "readme_short": "The \"Travel Planner\" is a comprehensive web application designed to assist users in organizing their trips efficiently. It offers features such as secure user authentication and the ability to manage trips with CRUD operations, including adding trips, cities, travel points, and activities while setting start and end dates. It also includes functionalities for managing contacts by adding and deleting friends, overseeing accommodation and transportation logistics, monitoring budgets for various travel expenses, and allowing trip participation management. Additionally, users can maintain personal travel journals with notes and photos, review and rate places, and leverage analytics to gain insights on expenses and popular destinations. The application uses a robust tech stack featuring a frontend built with HTML, CSS, JavaScript, TypeScript, Vue.js, and Vuetify, and a backend powered by Python and Django along with Django REST Framework. It supports databases like SQLite3 and PostgreSQL, and includes tools like GitHub, Visual Studio Code, Docker, and Postman for development and testing. The application provides straightforward installation steps, including Docker support, and thorough API documentation accessible via Swagger. The project is distributed under the MIT License, ensuring open and collaborative development.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1062,6 +1104,7 @@
         "totalChanges": 21059,
         "description": "Projekt, w kt\u00f3rym chc\u0119 si\u0119 nauczy\u0107 reacta tworz\u0105c stron\u0119 internetow\u0105 schroniska.\nStrona ma informowa\u0107 go\u015bci jakie zwierz\u0119ta s\u0105 dost\u0119pne do adopcji, a pracownikom ma pozwala\u0107 na zarz\u0105dzanie zwierzakami",
         "readme_short": "The \"Animal Shelter Website\" project aims to develop an accessible and functional website for an animal shelter, catering to both guests and employees. The website will allow guests to browse animals available for adoption, stay updated with news, find information about volunteering, and access contact details. For employees, the site will facilitate managing shelter animals, adding news content, and recording vaccination information. Some of the completed features include a basic news section, browsing for cats, initial site design, the capability to add animals to the database, adding news articles using markdown, and editing animal details. You can visit the site [here](https://animal-shelter-website.vercel.app).",
+        "language": "TypeScript",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -1086,6 +1129,7 @@
         "totalChanges": 13601,
         "description": "Sklep z produktami jubilerskimi.",
         "readme_short": "The Olivin Store project is a comprehensive e-commerce application built with Vite, React, and Django-Ninja, leveraging a modern Django ORM for efficient data management. It features robust user authorization and management, an integrated email system, and photo storage using either Amazon S3 or Minio. The application supports SQL databases and employs a Celery queue system for handling events. Key functionalities include product management, event-based promotions, and product rating. The frontend enhances user experience with dark/light mode and a React calendar for delivery scheduling. Additionally, the project incorporates dependency injection via request.context.auth, a pub/sub system, and periodic tasks using contrib/solar integration.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1109,6 +1153,7 @@
         "totalChanges": 7423,
         "description": "Regular expressions suck. That's a fact. \nEspecially when they're at the beginning of your programming journey. \nThis FluentRegex package is here to help. \nIt will help you with your learning as well as with the typing of very complicated patterns.",
         "readme_short": "**Fluent Regex** is a PHP library that simplifies the creation of regular expressions using a fluent, object-oriented syntax. This library aims to make complex regular expressions more readable and manageable by breaking down their components into a chainable and intuitive interface. Compatible with PHP 8.1 and above, it can be installed via Composer. The repository includes extensive documentation, making it easy to get started, and also provides a changelog for tracking updates. The project is licensed under the MIT License.",
+        "language": "PHP",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1133,6 +1178,7 @@
         "totalChanges": 3096,
         "description": "To b\u0119dzie moja pierwsza gra, przesuwanie klock\u00f3w.",
         "readme_short": "\"My-First-Game\" is a dynamic website showcasing a collection of classic games developed during the \"100 Commits on GitHub\" challenge by DevMentors. The project aims to enhance skills in JavaScript, HTML, and CSS while providing an entertaining experience with games such as Snake, Slide, Pong, and Merge Game. Each game offers a unique challenge, from navigating a growing snake, solving sliding block puzzles, competing in a retro-style pong match, to merging blocks to maximize scores. The website appeals to both gaming enthusiasts and developers looking to learn through interactive coding exercises.",
+        "language": "JavaScript",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1157,6 +1203,7 @@
         "totalChanges": 100086,
         "description": "Diet generator (REST API) bedzie  generowal diete i liste zakupow bazujac na podanych kryteriach(np. cel diety, kcal, dane pacjenta).\nTech: Java i Spring Boot, Mongo, React",
         "readme_short": "\"Fatatu - Diet Generator\" is a comprehensive, open-source project created to generate personalized diet plans based on user-specified criteria such as daily caloric intake, diet type, and personal metrics like weight and gender. Constructed as part of the \"100 Commits\" competition, the project encourages progressive development practices, adhering to Clean Architecture principles. The backend is powered by Java, Spring Boot, and MongoDB, while the frontend is built using TypeScript and React, deployed through Docker for easy setup. The application leverages the CalorieNinjas API to fetch nutritional data for products, producing diet plans that include detailed meal recipes and shopping lists. This structure facilitates flexibility and maintainability, enabling seamless changes to the database or framework without impacting core application logic. Key features include calculating basal metabolic rate (BMR), total daily energy expenditure (TDEE), and nutritional needs for various diet types, ensuring the generated diets are nutritionally balanced and tailored to individual health goals.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1181,6 +1228,7 @@
         "totalChanges": 12874,
         "description": "Integration tool for synchronize data between ERP and e-commerce systems",
         "readme_short": "**Integrify** is an infrastructure tool designed to streamline the integration processes between e-commerce systems (such as online stores) and ERP systems by providing a specialized infrastructure for integrating customers, orders, products, and stocks. This tool uses external plugins as adapters to facilitate data exchange between these systems, simplifying the integration process and significantly reducing the need for extensive custom development. It features a command-line interface (CLI) for managing integration processes and is built with extendability and maintainability in mind. Integrify was developed to address the challenges of creating custom integrations, particularly the lack of a uniform infrastructure layer, and offers a standard approach to integrating various e-commerce platforms with ERP systems.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1205,6 +1253,7 @@
         "totalChanges": 6692,
         "description": "Parking Domain - aplikacja do nauki wszystkiego! Chcia\u0142bym zamodelowa\u0107 prost\u0105 domen\u0119, kt\u00f3ra pos\u0142u\u017cy mi do nauki narz\u0119dzi czy te\u017c przydatnych technik jak CQRS. Swoje post\u0119py b\u0119d\u0119 opisywa\u0142 na blogu.",
         "readme_short": "The Parking Domain project is an educational experiment focused on developing a sophisticated parking reservation system. The project aims to evolve from a simple, rudimentary model to a more complex and well-defined solution using Java 21, Spring Boot, and other frameworks. It addresses the parking management needs of a client by enabling features like reservations, loyalty programs, cleaning schedules, and fee management. The system supports a variety of vehicle types and implements business rules for parking spot allocation, reservations, and client types. The project also aims to explore and implement various technologies and best practices in software development, such as Event Sourcing, Microservices, CQRS, and more, serving as a learning platform for domain modeling and architectural enhancements.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1228,6 +1277,7 @@
         "totalChanges": 4516,
         "description": "Aplikacja prezentuj\u0105ca w przyst\u0119pny spos\u00f3b jak dzia\u0142aj\u0105 algorytmy genetyczne - zabawa z tworzeniem r\u00f3\u017cnych obiekt\u00f3w w oparciu o funkcje przystosowawcze kontrolowane przez u\u017cytkownika. ",
         "readme_short": "FunGA is an educational project designed to help users understand genetic algorithms through an engaging and interactive web application built using Streamlit. Inspired by Darwinian natural selection, this app offers a blend of theoretical knowledge and practical exercises, allowing users to grasp the fundamentals of genetic algorithms easily. The project roadmap includes must-have features like a user-friendly interface and essential theory-practice balance, along with advanced functionalities like language translation, optimization techniques, and a database solution for experiment management. Stretch goals include exploring related fun topics such as Conway's Game of Life and neural networks. The repository is also part of the 100COMMIT\u00d3W competition organized by DevMentors.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1252,6 +1302,7 @@
         "totalChanges": 35643,
         "description": "Projekt umo\u017cliwiaj\u0105cy prowadzenie dziennika jad\u0142ospisu, rozszerzony o modu\u0142 wsp\u00f3\u0142pracy z dietetykiem",
         "readme_short": "Omniom is a comprehensive system designed for diet planning and monitoring of current health status (such as weight and measurements), extending to coordinate collaboration between nutritionists and users who track their meals and physical condition. The project is built using Angular for the frontend, leveraging NGXS for state management, and employs .NET Core for the backend to provide a robust API. The backend architecture employs a vertical-slice approach with CQRS to streamline functionality and maintain simplicity. Omniom supports user authentication, food product catalog management, dietitian collaboration, and personalized dietary recommendations. Developed initially as an MVP with core functionalities, the project also discusses potential commercialization strategies through service fees for dietitian coordination and promoted advertisements. It allows easy system setup via Docker, demonstrating a balance between performance and extendibility.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1277,6 +1328,7 @@
         "totalChanges": 23699,
         "description": "To przede wszystkim projekt zarz\u0105dzania finansami, kt\u00f3ry umo\u017cliwia u\u017cytkownikom zarz\u0105dzanie ich miesi\u0119cznymi przychodami i wydatkami na zasadzie miesi\u0105c po miesi\u0105cu. ",
         "readme_short": "FinToUp is a financial management project aimed at helping users track their monthly income and expenditures systematically. Created by Tomasz, a .NET Developer looking to modernize his skillset, the project features a backend REST API built with .NET Core 8.0 using the CQRS pattern and Microsoft SQL Server via Entity Framework. The frontend is powered by React 18 with Axios for HTTP requests, and there's a focus on continuous integration (CI) and testing. The project integrates planning with Notion and aims to innovate with new technologies like Docker, pipelines, and possibly Next.js. Although still in development, Tomasz follows an agile methodology with clearly defined sprints and task completion tracking. The ultimate goal is to create a reliable tool for personal financial management and learning new technologies along the way.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1300,6 +1352,7 @@
         "totalChanges": 21268,
         "description": "Piece of code that will be keep your finances in one place",
         "readme_short": "\"Overmoney\" is a web application designed for personal finance management inspired by Money Manager Ex. It offers features such as account creation/login via email, support for multiple wallets and currencies, detailed transaction logs, recurring transactions, and budget planning. While functionalities like attaching files to transactions and sending weekly/monthly summaries via email are on the roadmap, the tool currently prioritizes streamlined financial tracking and planning. The application utilizes a modern tech stack, including .NET 8.0, Docker, Entity Framework Core, PostgreSQL for the backend, and VueJS, Pinia, and Pico for the frontend. Additional planned integrations include OAuth for enhanced security and RabbitMQ for messaging. The application is built with CI/CD practices, including automatic builds, testing, and deployments to ensure smooth operation and observability using tools like Loki, Grafana, Prometheus, and Jaeger.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1323,6 +1376,7 @@
         "totalChanges": 15522,
         "description": "Automatyzacja domowa",
         "readme_short": "The Home Periscope project seeks to enhance the accessibility of the ecoNET 300 internet module for the VITECO furnace, used specifically with the EG PELLET MINI COMPACT 16 HYBRID furnace and the PELLAS HYBRID burner. The primary objectives include reading detailed operational data from the furnace, modifying furnace settings, possibly expanding to control other household devices, and displaying this data on a website. Communication with the furnace's controller is achieved using the RS485 protocol via a USB to RS485 converter mounted on a Raspberry Pi Zero. The project supports both local (USB) and network-based communication, along with a demo mode for development and testing. Future expansions and integrations with air conditioning systems and further automation features are planned. The README also provides comprehensive instructions for setting up the Raspberry Pi environment, including installing specific software dependencies like Python 3.11, Redis 7.2.4, Poetry, Node.js, and PNPM.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1358,6 +1412,7 @@
         "totalChanges": 8154,
         "description": "Aplikacja webowa CigarBase s\u0142u\u017c\u0105ca do oceny cygar dla Afficionados :)",
         "readme_short": "CigarBase is a comprehensive application tailored for cigar enthusiasts, providing users with an extensive platform to discover, rate, and review a wide variety of cigars. The app boasts features such as dynamic cigar library management, detailed user interactions including ratings and reviews, and a streamlined administration panel for efficient cigar management. Users can create customizable profiles, participate in community-driven content, and unlock gamified achievements. The project emphasizes intuitive front-end design, user-generated content moderation, and offers premium membership tiers for more exclusive benefits. Inspired by platforms like whiskybase.com and top cigar magazines, CigarBase aims to be the go-to application for aficionados to explore and relish the diverse world of cigars.",
+        "language": "C#",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -1381,6 +1436,7 @@
         "totalChanges": 5605,
         "description": "Biblioteka do obs\u0142ugi zada\u0144 w tyle w stylu hangfire/quartz. ",
         "readme_short": "Backynet is a high-performance .NET library designed for executing background tasks such as email dispatch and large file processing. It guarantees \"at least once delivery\" to prevent data loss and supports easy scalability via an architecture that allows task execution across multiple nodes. Installed via NuGet, the library currently supports PostgreSQL, with additional providers in development. Its functionality includes job serialization to ensure tasks can be performed on any available node. Benchmark comparisons show Backynet's superiority in performance and resource allocation compared to Hangfire, making it an efficient choice for handling background operations in .NET applications.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1404,6 +1460,7 @@
         "totalChanges": 1912,
         "description": "Edytor tekstu",
         "readme_short": "RustEdit is a text editor developed in Rust, utilizing the [ratatui](https://github.com/ratatui-org/ratatui) and [crossterm](https://github.com/crossterm-rs/crossterm) libraries to provide a rich text-based user interface and cross-platform terminal manipulation. The project aims to deliver a robust and efficient text editing experience within the terminal environment, leveraging Rust's performance and safety features.",
+        "language": "Rust",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1428,6 +1485,7 @@
         "totalChanges": 1578,
         "description": "Powiadomienia o dzwoni\u0105cym domofonie...",
         "readme_short": "The SmartDoorPhone project aims to create a device that integrates with Home Assistant to send notifications when someone uses the intercom to call a specific flat number. The device is designed to be configurable, allowing users to specify which flat numbers should trigger notifications. It leverages technologies such as ESP32 or ESP8266 microcontrollers, ESPHome, and Home Assistant for its functionality. The project supports various ESP boards like ESP32-CAM and ESP_01, with partial support for ESP32-C3. The technical documentation includes details on the communication protocol used and related links to helpful resources and tools.",
+        "language": "C++",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1461,6 +1519,7 @@
         "totalChanges": 103050,
         "description": "Aplikacja do logowania wp\u0142yw\u00f3w i wydatk\u00f3w",
         "readme_short": "myBudget is an open-source web application designed to help users manage personal budgets efficiently. Key features include creating budgets, categorizing expenses, tracking transactions, archiving categories, and viewing detailed financial dashboards with charts. The application supports user registration and is built using a modern tech stack including a React frontend, a .NET API, and a .NET identity server for authentication via OpenIddict. The project aims to explore and implement various software engineering concepts such as Domain-Driven Design (DDD), minimal APIs, and API testing, while providing practical budget management tools. A demo of the application is available online, with the notable architecture and implementation details outlined in the README.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1485,6 +1544,7 @@
         "totalChanges": 11178,
         "description": "B\u0119dzie to model AI, kt\u00f3rego za\u0142o\u017ceniem b\u0119dzie rozpoznawanie chwyt\u00f3w wspinaczkowych ze zdj\u0119cia i uk\u0142adanie z nich nowych boulder\u00f3w (dr\u00f3g wspinaczkowych) dopasowanych do poziomu osoby wspinaj\u0105cej si\u0119.",
         "readme_short": "The Climbing Crux Model is a machine-learning project that leverages the YOLOv9 object detection algorithm to identify climbing holds and measure distances between them from photographs, ultimately suggesting climbing routes that match the user's skill level. The model is trained on a custom dataset of climbing wall images and annotations formatted for YOLO. Users can generate climbing routes via FastAPI, ensuring accessibility. The setup instructions provide options to run the project locally or with Docker. Additionally, the project includes metrics for model evaluation and offers downloadable resources like the dataset and the trained model. Future improvements and tasks are listed, aligning with the project's goals of enhanced route generation and detection accuracy. The project is open source, licensed under the MIT License.\n",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1513,6 +1573,7 @@
         "totalChanges": 7616,
         "description": "Library for consuming https://timeular.com/ API",
         "readme_short": "The Timeular API project provides a PHP library to interact with the Timeular time tracking application. Motivated by a need for better time tracking for developers, especially when managing multiple projects and frequent context switching, this library helps integrate Timeular's features with existing workflows. It leverages a smart physical time tracker and complies with GDPR and privacy standards. The project is intended for those who need to automate and improve their time tracking, making it easier to report work hours. Installation is simple using Composer, and it supports various PSR implementations for HTTP clients. The project was created in part as a commitment to making small daily improvements, inspired by the 100 commits challenge. The package is distributed under the MIT License.",
+        "language": "PHP",
         "flags": {
             "question_1": "No",
             "question_2": "Yes",
@@ -1536,6 +1597,7 @@
         "totalChanges": 5827,
         "description": "Gra platformowa napisana w... Kotlinie ;) Nie pozw\u00f3l pochodni zgasn\u0105\u0107, uwa\u017caj na wod\u0119. Id\u017a naprz\u00f3d, zatrzymanie si\u0119 nie wchodzi w gr\u0119. Jak daleko zajdziesz? Graj w przegl\u0105darce: \u25b6\ufe0f https://awcz.github.io/torch/",
         "readme_short": "\"Torch\" is a 2D platform game developed in Kotlin as part of the [100commitow](https://100commitow.pl) challenge, featuring simple yet challenging gameplay where players must avoid water and keep a fire burning without stopping. The game is playable in a web browser and utilizes basic controls for jumping and moving left or right, with a mobile-friendly version available. The project is in its initial stages with plans for enhancements in gameplay, graphics, and additional levels. It encourages collaboration, welcoming contributions to improve both the game's functionality and its source code.",
+        "language": "Kotlin",
         "flags": {
             "question_1": "No",
             "question_2": "Yes",
@@ -1560,6 +1622,7 @@
         "totalChanges": 3503,
         "description": "Aplikacja do chatowania z u\u017cytkownikami w czasie rzeczywistym, interakcji z nimi, tworzenia grup tematycznych, tworzenia w\u0142asnych profili",
         "readme_short": "MessengerX to aplikacja do komunikacji w czasie rzeczywistym, umo\u017cliwiaj\u0105ca u\u017cytkownikom zarz\u0105dzanie list\u0105 znajomych, prowadzenie indywidualnych rozm\u00f3w oraz przegl\u0105danie historii wiadomo\u015bci. Projekt czerpie inspiracj\u0119 z ch\u0119ci zg\u0142\u0119bienia technologii WebSockets i SSE oraz poszerzenia wiedzy z zakresu Spring MVC. Kluczowe funkcjonalno\u015bci obejmuj\u0105 rejestracj\u0119 i logowanie, chatowanie indywidualne, dost\u0119p do historii wiadomo\u015bci oraz system powiadomie\u0144 o r\u00f3\u017cnych zdarzeniach. Dodatkowe funkcje, takie jak chat grupowy, zarz\u0105dzanie rolami w czatach, udost\u0119pnianie post\u00f3w i tworzenie ankiet, s\u0105 przewidziane na przysz\u0142o\u015b\u0107. Aplikacja wykorzystuje technologie takie jak Java 17, Maven, Spring Boot, Spring Data, Spring Security, WebSocket, SSE, NoSQL oraz Elasticsearch. Budowanie i uruchomienie aplikacji mo\u017cna przeprowadzi\u0107 za pomoc\u0105 Maven i dost\u0119pna jest licencja MIT.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1583,6 +1646,7 @@
         "totalChanges": 860559,
         "description": "NurseryNav simplifies the search for nearby nursery schools by providing an easy-to-use map interface to help you find the perfect childcare option for your little ones.\n\nLive URL: https://znajdzzlobek.pl/\nBackend API DEMO: https://nursery-nav-api.vercel.app/api/",
         "readme_short": "Nursery-Nav is a project designed to simplify the search for nearby nursery schools using an intuitive map interface, helping parents find suitable childcare options effortlessly. The project employs a tech stack that includes React, Typescript, and React Leaflet for the frontend, and NestJS for the backend, featuring a live website and a backend API demo. Initially developed as part of the 100 commits challenge to learn front-end technologies, it offers comprehensive features such as map views, search functionality, institution details, filtering, sorting, and direct URLs to specific institutions. The project includes thorough documentation, continuous integration and deployment workflows, and future plans for enhanced functionalities and data management improvements.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1608,6 +1672,7 @@
         "totalChanges": 298861,
         "description": "Analiza paragonu na podstawie zdj\u0119cia",
         "readme_short": "The 100commit\u00f3w project, undertaken as part of the [100commit\u00f3w 2024 edition](https://100commitow.pl/), aims to develop a .NET-based application named ReceiptAnalyzer. This application is designed to analyze Polish fiscal receipts through images or scans, extracting valuable data such as seller information, product details, and transaction summaries. Despite progress in designing the application, setting up Azure infrastructure, implementing component communication, and initial machine learning model training for receipt recognition, the project faced delays due to personal and family reasons. Future enhancements are planned to improve data sets and model accuracy. The tech stack includes .NET 8, Azure Service Bus, and SQL Server, focusing on microservices architecture and machine learning with ML.NET. The project highlights the importance of thorough problem analysis and flexibility to manage unforeseen delays.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1631,6 +1696,7 @@
         "totalChanges": 135801,
         "description": "System zarz\u0105dzania us\u0142ugami i technologiami informatycznymi",
         "readme_short": "kaizenITSM is a comprehensive IT Service Management (ITSM) solution designed to streamline IT operations and support business growth by integrating various modules such as Service Desk, Asset Management, Knowledge Base, Database Management, System Mapping, Contract Management, Document Database, GDPR, and Whistleblower compliance. The platform automates workflows for ticket management, provides end-to-end visibility and tracking of IT assets, centralizes contract and document handling, and ensures compliance with data protection regulations. Future enhancements include securing APIs with JWT Bearer, defining initial user roles, adding email notifications, and generating reports. Documentation and installation guides are provided in the _Documentation_ folder, with further development activities outlined in a 100-day planning roadmap. The project supports dynamic object property editing, resource assignment, ticket integration, and administrative operations, emphasizing efficiency and secure data handling.",
+        "language": "C#",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -1654,6 +1720,7 @@
         "totalChanges": 30096,
         "description": "Edytor, dziennik dla gier RPG (tych m\u00f3wionych np. D&D, Warhammer). Powinna by\u0107 opcja dodawania wielu kampanii, zapisywanie post\u0119p\u00f3w, dodawanie kart postaci",
         "readme_short": "The RPG Campaign Manager is a comprehensive application designed to enhance role-playing game sessions by providing tools to store campaigns, create characters, manage story logs, and more. Built with Angular for the frontend, NestJS for the backend, and MongoDB for data storage, this application ensures a robust and user-friendly experience for managing RPG campaigns. Key features include campaign management, detailed character creation, story logging, and secure user authentication. The application integrates data from the D&D 5e API and provides a seamless setup process for local development environments.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1683,6 +1750,7 @@
         "totalChanges": 26269,
         "description": "Aplikacja webowa umo\u017cliwiaj\u0105ca planowanie bud\u017cetu, monitorowanie wydatk\u00f3w oraz wy\u015bwietlanie wybranych metryk obejmuj\u0105cych okre\u015blony czas. ",
         "readme_short": "ExpenseGuard is an application aimed at helping users manage their finances by tracking expenses, incomes, and investments, and providing insights into their spending habits. Developed as part of a 100-commits challenge, the project includes a basic frontend and backend built using .NET and React, respectively. Core features implemented so far include CRUD operations for expenses, incomes, and investments, along with categorization and financial monitoring. Future plans involve adding Docker support for easier deployment and implementing authorization and authentication mechanisms. This project not only helps in financial management but also serves as a learning and review platform for backend architecture and frontend development practices.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1706,6 +1774,7 @@
         "totalChanges": 16801,
         "description": "CI/CD tool, based on server/agent architecture. Built in Rust.",
         "readme_short": "RustyOps is a CI/CD system developed in Rust, featuring various integrated modules including services for initialization, backend server, pipeline execution, and a web UI, alongside libraries for user authentication, shared functionalities, domain modeling, and database communication. The project is designed to streamline continuous integration and delivery processes through a robust and modular architecture. Contributions are welcome, with detailed steps provided for setting up, implementing changes, and submitting pull requests. The project is licensed under the MIT license and maintained by Pawe\u0142 Walus.",
+        "language": "Rust",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1730,6 +1799,7 @@
         "totalChanges": 11069,
         "description": "Projekt narz\u0119dzia, kt\u00f3re pozwala na tworzenie dedykowanych workspace'\u00f3w, w ramach kt\u00f3rych b\u0119d\u0105 deklarowane aplikacje, kt\u00f3re s\u0105 dost\u0119pne w ramach danego workspace",
         "readme_short": "Homespaces is a productivity application designed to create a distraction-free environment by allowing users to block selected non-system applications from running. Users can choose which apps to prevent from executing, helping them stay focused on their tasks. The tool provides an interface to view installed applications, select those to block, and manage the blocking setup. Currently, it supports Windows 11 and is built using Node.js and Rust. Future enhancements include manual app additions, improved app detection, better UI, and the inclusion of system applications. Known issues involve the accuracy of app detection and the efficacy of blocking mechanisms.",
+        "language": "Rust",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1753,6 +1823,7 @@
         "totalChanges": 7258,
         "description": "Zarz\u0105dzalny system s\u0142u\u017c\u0105cy do wy\u015bwietlania prezentacji na telewizorach (opartych na Linuxie). B\u0119dzie si\u0119 sk\u0142ada\u0142 z 3 g\u0142\u00f3wnych cz\u0119\u015bci: Server, Endpoint, Client",
         "readme_short": "The \"tv-managing-system\" (TMS) project is an open-source solution designed to implement easy TV display management in a corporate environment. It facilitates the deployment of TV endpoints\u2014devices based on Linux, such as Raspberry Pi\u2014that can be centrally managed using a single PC. The system comprises three main components: the server, which manages the entire system and communicates with the endpoints; the client, a Windows application for user-friendly management of the displays; and the endpoint, which displays images on connected TVs using low system resources, making it an efficient and cost-effective solution. The project is structured to support simple installation and configuration, and while it currently lacks in-depth security measures, future enhancements are planned to improve its security and functionality.",
+        "language": "C++",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1776,6 +1847,7 @@
         "totalChanges": 4664,
         "description": "Aplikacja do zabawy podczas fina\u0142\u00f3w Euro 2024 w pi\u0142ce no\u017cnej",
         "readme_short": "The Euro 2024 Challenge app is an engaging platform for football enthusiasts to participate in betting on the Euro 2024 championship while exploring modern software development practices. Crafted as a modular monolith with a potential future transition to microservices, the app employs Domain-Driven Design (DDD) concepts. It involves both backend development using .NET 8 and C#, and frontend development with React, offering an opportunity for the developer to gain proficiency in these technologies. Core features include user registration, team selection, match result predictions, points scoring for correct predictions, and player rankings. The tech stack consists of .NET 8, C#, Postgres, EF Core, and React.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1799,6 +1871,7 @@
         "totalChanges": 3979,
         "description": "My Bathroom Mirror Is Smarter Than Yours!\nAplikacja na urz\u0105dzenie Android z:\n- funkcj\u0105 kalendarza, \n- informuj\u0105ca o imieninach na wybrany dzie\u0144,\n- z wyszukiwark\u0105 dni i miesi\u0119cy dla poszczeg\u00f3lnych imienin,\n- integracj\u0105 z zewn\u0119trznym systemem wiadomo\u015bci,\n-custom ustawieniami.\nW projekcie zastosowane zosta\u0142y rekomendowane przez Google narz\u0119dzia z 2024",
         "readme_short": "Future Mirror is a smart mirror application designed to display various types of information through widgets, such as calendars, name days specifically in Poland, and news updates. The app supports multi-language functionality, including English and Polish, and emphasizes a high level of personalization for the dashboard. Built primarily using Kotlin, it integrates a robust technology stack including Dagger Hilt for dependency injection, Jetpack Compose for modern UI development, Kotlin Flow for reactive programming, and various other libraries like Retrofit for networking and Room for persistent storage. The project also ensures quality through extensive testing frameworks such as JUnit and Mockk. Future development aims to include draggable elements and improved data updating strategies.",
+        "language": "Kotlin",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1822,6 +1895,7 @@
         "totalChanges": 3761,
         "description": "WebAssembly runtime o minimalnych wymaganiach do uruchamiania na mikrokontrolerach.",
         "readme_short": "The uWasm project is a runtime for executing WebAssembly (Wasm) modules, specifically designed to function as a loader for user applications in firmware running on microcontrollers like the ESP32. Developed as part of a daily coding challenge, its goals include providing a Wasm parser, a bytecode interpreter, a native API for virtual machine interactions, and potentially a Just-In-Time (JIT) or Ahead-Of-Time (AOT) compiler. The project emphasizes a low memory footprint and reasonable performance and aims to incorporate continuous integration for performance validation on target hardware. Written mainly in Rust, this project seeks to deepen the developer's understanding of WebAssembly and low-level programming.",
+        "language": "Rust",
         "flags": {
             "question_1": "No",
             "question_2": "Yes",
@@ -1846,6 +1920,7 @@
         "totalChanges": 3385,
         "description": "An terminal user interface for forming habits like daily commit and many more.\nIt lets you track number of completions over a week, month or year. \nYou can also track strike how many days in a row a each task was completed.\nIt supports saving changes in local system files, but also provides remote server for hosting your daily habits.",
         "readme_short": "The \"habittui\" project is a terminal-based application developed to aid users in managing their daily habits directly from the terminal, leveraging tools like neo-vim and tmux for a seamless experience. The application organizes tasks into windows or sections, providing functionalities for viewing, editing, creating, and deleting tasks with shortcut keys for easy navigation. Tasks and their progress are stored in a JSON file by default, with an optional feature to store data remotely using a server supporting in-memory or SQLite database engines. The project is currently under development, with ongoing improvements and feature additions. Installation and usage instructions are provided for both the client application and the server tool, enabling a connected and efficient habit-tracking system for terminal enthusiasts.",
+        "language": "Go",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1870,6 +1945,7 @@
         "totalChanges": 2337,
         "description": "MotiPrompt is a versatile Android application designed to inspire and motivate users through carefully curated quotes. It offers a unique blend of functionality allowing users to create, manage, and explore different sets of quotes based on their preferences and interests.",
         "readme_short": "MotiPrompt is an Android application tailored to inspire users through curated motivational quotes, enabling them to create, manage, and explore personalized quote collections based on various themes or authors. It offers features such as random quote generation, seamless collection management, and custom notifications, all wrapped in a user-friendly interface. Future updates aim to include a background notification service to deliver quotes at specified intervals. Developed under the MIT License, the project was inspired by the 100 Commits contest and aims to blend motivation with a learning journey in Android development, documented with a demo and installation guide.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1894,6 +1970,7 @@
         "totalChanges": 1605,
         "description": "Strona, na kt\u00f3rej b\u0119d\u0105 generowane obrazki logiczne do rozwi\u0105zywania. \nIdealnie by po rozwi\u0105zaniu co\u015b przedstawia\u0142y, a nie by\u0142y tylko szlaczkiem.\n\nTechnologie \ud83d\udc40: django-silk, tailwind",
         "readme_short": "The \"nonogram\" project is a web application designed to generate and solve logical puzzles that form meaningful images upon completion. Deployed on Render with the database on Railway and file storage via Cloudinary, it boasts capabilities such as puzzle creation from photos and on-platform solving to enhance logical thinking. For development, it employs technologies like Django, Tailwind CSS, Django REST Framework, and PostgreSQL, with integrated tools for profiling, monitoring, and API documentation. Additional features planned include hint assistance, a Hall of Fame, and the ability to upload and seek solutions for physical puzzles. The project also includes robust CI/CD practices with GitHub Actions and Pre-Commit to ensure consistent code quality.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -1918,6 +1995,7 @@
         "totalChanges": 718,
         "description": "Aplikacja do zbierania my\u015bli w formie tekstowej oraz wideo z funkcj\u0105 szyfrowania.",
         "readme_short": "\"Zabezpiecz Dusz\u0119\" to aplikacja mobilna na Androida, kt\u00f3ra pozwala u\u017cytkownikom na bezpieczne przechowywanie swoich refleksji i do\u015bwiadcze\u0144 w formie tekstowej, video lub audio, z mo\u017cliwo\u015bci\u0105 transkrypcji do tekstu. Aplikacja umo\u017cliwia zapisywanie danych lokalnie na urz\u0105dzeniu, bez synchronizacji z chmur\u0105, oferuj\u0105c dodatkowo opcj\u0119 eksportu wpis\u00f3w na no\u015bnik zewn\u0119trzny. Projekt d\u0105\u017cy do stworzenia kompleksowego dziennika \u0142\u0105cz\u0105cego r\u00f3\u017cne formy wyrazu oraz planuje rozw\u00f3j chatbota AI, kt\u00f3ry b\u0119dzie trenowany na podstawie zapisanych danych u\u017cytkownika. Aplikacja wykorzystuje Python i Kivy do budowy interfejsu, a jej frontend by\u0142 konsultowany przy u\u017cyciu ChatGPT.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1941,6 +2019,7 @@
         "totalChanges": 588,
         "description": "Merytoryczna ocena doniesie\u0144 z uwzgl\u0119dnieniem sentyment\u00f3w spo\u0142ecznych kompatybilna z istniej\u0105cymi systemami w sieci.",
         "readme_short": "The \"100commitow-projekt\" is an application designed to manage and display links with sentiment scoring for user-generated content. It incorporates various features such as a menu interface, routing via `location.hash`, and responsive design using Bootstrap. The application supports content management functionalities like adding, modifying, and deleting sources, as well as sentiment management which allows for the definition and assessment of sentiments using JavaScript snippets. It also includes mechanisms for viewing and testing entries\u2019 cumulative sentiments, a development mode for cloning entries, and a service to parse content sources into a list of posts, which can be accessed via a REST API.",
+        "language": "JavaScript",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -1964,6 +2043,7 @@
         "totalChanges": 29487,
         "description": "System ticketowy, do usprawnienia komunikacji pomi\u0119dzy klientem a zespo\u0142em helpdesk. Zg\u0142oszenia wysy\u0142ane przez maila, przyporz\u0105dkowanie, okre\u015blanie status\u00f3w.",
         "readme_short": "WorkingGood is a comprehensive ticketing application developed for small organizations to streamline support ticket management, project development, and time tracking. Designed with a focus on customization and scalability, it includes features such as a centralized platform for support requests, tools for task creation and assignment, and capabilities for monitoring user time on issues. The system leverages a modular monolithic architecture, incorporating principles of Domain-Driven Design (DDD), Event-Driven Architecture (EDA), and Test-Driven Development (TDD) to ensure a robust, scalable, and maintainable solution. Additionally, built-in reporting and analytics provide valuable insights into ticket resolution times, project progress, and team performance.",
+        "language": "C#",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -1987,6 +2067,7 @@
         "totalChanges": 16967,
         "description": "Platforma do zarz\u0105dzania prywatn\u0105/prywatnymi szko\u0142ami j\u0119zyka angielskiego",
         "readme_short": "Enscool is a backend management system designed for private English schools, focusing on facilitating diverse administrative and educational functions. Developed as part of the **\"100commit\u00f3w\"** competition, Enscool will support features such as school registration, course management, lesson planning, and user management for different roles like students, teachers, and staff. The system is built using the .NET 8 framework, with PostgreSQL as the database and Entity Framework Core as the ORM. More functionalities will be introduced as the project evolves. Detailed instructions for setting up the development environment will be provided soon.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2010,6 +2091,7 @@
         "totalChanges": 14665,
         "description": "generator CVek, wygl\u0105daj\u0105cych jak z folderu reklamowego - za darmo",
         "readme_short": "Generator CVek to projekt maj\u0105cy na celu stworzenie intuicyjnego i estetycznego generatora CV, umo\u017cliwiaj\u0105cego stworzenie profesjonalnego \u017cyciorysu bez konieczno\u015bci korzystania z p\u0142atnych us\u0142ug dost\u0119pnych w internecie. Aby wygenerowa\u0107 CV, u\u017cytkownicy mog\u0105 klikn\u0105\u0107 w podany link i wype\u0142ni\u0107 wymagane pola. Instrukcje dotycz\u0105ce uruchomienia projektu lokalnie s\u0105 dost\u0119pne w pliku README-angular.md. Projekt jest w fazie rozwoju, a jego aktualny status wskazuje, \u017ce nie wszystkie funkcje s\u0105 jeszcze uko\u0144czone.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "No",
             "question_2": "Yes",
@@ -2035,6 +2117,7 @@
         "totalChanges": 14134,
         "description": "Linux dashboard",
         "readme_short": "\"Linux Dashboard\" is a web application designed to monitor the performance and operation of Linux systems. The project utilizes Angular for the frontend and Go for the backend. The primary educational goals of the developer include gaining a deeper understanding of Angular's latest features, adopting Angular Material, learning the Go programming language, creating REST APIs, and understanding communication protocols such as HTTP and WebSocket. Additionally, the project aims to improve skills in writing unit tests, applying design patterns, and following best programming practices. The README indicates that the document will be updated over time to reflect ongoing development.",
+        "language": "Go",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2058,6 +2141,7 @@
         "totalChanges": 6559,
         "description": "Aplikacja mobilna do organizacji zada\u0144 cyklicznych",
         "readme_short": "Loop Lords is a mobile application crafted to aid users in efficiently managing their recurring tasks through a combination of reminders, rewards, and prioritization, helping them adhere to cyclical schedules, break habits, and stay disciplined. It provides notifications to remind users of upcoming deadlines, incentivizes timely task completion with rewards, and prioritizes tasks based on their last completion dates, such as dietary plans. Additionally, Loop Lords aims to assist in curbing habits by issuing alerts for premature task attempts, exemplified by limiting gaming sessions to foster better habits. This versatile tool can be used for diverse needs, such as regular gifting reminders, vehicle maintenance, workout tracking, and dietary management. Available on both Android and iOS platforms, it integrates elements of gamification to make task management engaging and motivating.",
+        "language": "C#",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -2085,6 +2169,7 @@
         "totalChanges": 2770,
         "description": "Biblioteka pythonowa do aplikacji 3D Blender. B\u0119dzie s\u0142u\u017cy\u0107 jako zbi\u00f3r funkcji do tworzenia modeli 3D w blenderze za pomoc\u0105 kodu. ",
         "readme_short": "BPL is an open-source Blender Python Library Wrapper aimed at simplifying the creation of 3D objects, animations, procedural materials, and compositions in Blender. By abstracting Blender's extensive `bpy` library, BPL offers an intuitive and user-friendly API designed for both novice and experienced developers, facilitating the development of Blender scripts and add-ons. It includes tools for easy procedural material generation, advanced composition capabilities, and a streamlined interface for handling complex 3D tasks. The project requires Blender 4.0 or newer and does not necessitate additional configuration post-installation. The GitHub repository provides comprehensive documentation and welcomes contributions from the community.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2109,6 +2194,7 @@
         "totalChanges": 1613,
         "description": "By\u0107 konsekwentnym ",
         "readme_short": "The \"Faint Comments\" project is a proof-of-concept tool designed for developers who wish to keep code comments separate from the source code file. This can be useful for reasons such as preventing comments from appearing in version control, needing to remove comments for production deployments, or providing instructional notes that can be managed separately. The library works by extracting comments from the code and storing them in a JSON file, which can then be reapplied to the code when needed. The tool is built on the TreeSitter parsing library and currently supports Python. It can be installed via pip and offers two main commands: one for extracting comments and another for rejoining them to the code. The project is under active development, with numerous planned features and improvements to enhance functionality and user experience.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2132,6 +2218,7 @@
         "totalChanges": 251996,
         "description": "Survey's Portal - application for creating and managing surveys.",
         "readme_short": "The \"Survey's Portal\" project is a comprehensive application designed to facilitate the creation and distribution of online surveys, aimed at gathering valuable feedback from users, customers, and employees. Utilizing technologies such as .NET for backend, Angular for the web frontend, and potentially MAUI for mobile, it offers functionalities for creating both simple and complex surveys. Users can log in and interact with surveys using Google, LinkedIn, or Facebook authentication. The project is well-organized into distinct modules for managing surveys, notifications, and users, with a robust backend setup including PostgreSQL, Docker, and RabbitMQ. Licensed under the MIT license, it's freely modifiable and distributable under the given terms.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2155,6 +2242,7 @@
         "totalChanges": 27420,
         "description": "Aplikacja webowa u\u0142atwiaj\u0105ce zarz\u0105dzenia swoimi danymi taki jak waga, dziennik treningowy, przeczytane ksi\u0105\u017cki itp. ",
         "readme_short": "IApp is a comprehensive web application designed to revolutionize the management and interpretation of fitness data. Developed using Java and Spring Boot for back-end operations and JavaScript with React for the front-end, the platform offers a user-friendly interface for fitness tracking. Key features include secure user authentication, manual entries for weight and activities, weekly average calculations, BMI and caloric calculators, and data import/export functionalities. The app aims to simplify fitness data analysis, enhancing users' ability to maintain and interpret their health records. Additionally, IApp is being developed as part of a challenge to commit code 100 days consecutively, emphasizing the developer's commitment to continuous learning and skill enhancement.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2178,6 +2266,7 @@
         "totalChanges": 18453,
         "description": "PathPilot to narz\u0119dzie do planowania podr\u00f3\u017cy, kt\u00f3re pomaga u\u017cytkownikom w szybkim i efektywnym organizowaniu ich przyg\u00f3d.",
         "readme_short": "PathPilot is a comprehensive travel planning application designed to simplify the process of organizing trips, exploring new destinations, and experiencing different culinary delights. It features various modules including user management, trip planning, attractions, accommodations, restaurants, reviews, communication, external services integration, and personalized recommendations. These modules collectively facilitate an efficient travel planning experience by managing user profiles, curating lists of attractions and accommodations, suggesting restaurants, enabling trip itinerary creation, and providing personalized suggestions using machine learning algorithms. PathPilot aims to transform the often cumbersome task of trip planning into an enjoyable and straightforward process, allowing users to concentrate on making unforgettable travel memories.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2202,6 +2291,7 @@
         "totalChanges": 5422,
         "description": "projekt b\u0119dzie czatem, szyfrowanym e2e",
         "readme_short": "Susurri is a web-based messaging application developed by Micha\u0142, also known as \"MagicCactus42,\" that emphasizes end-to-end (E2E) encryption to protect user anonymity and secure communication. Built during the \"100 Commits\" competition by Devmentors, Susurri utilizes AES encryption for messages and a GnuPG login system to ensure account security. Although the project is still in development and Micha\u0142 acknowledges not being able to implement all initially planned features, Susurri is set to include push notifications and an intuitive UI. The application is Micha\u0142's first, stemming from a learning journey and a newfound passion for coding, with ongoing development promised beyond the competition. Released into the public domain, Susurri invites free usage, modification, and distribution by anyone.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2225,6 +2315,7 @@
         "totalChanges": 4777,
         "description": "Jak po nazwie mo\u017cna sie domyslec, jest to kopia popularnego serwisu \"OnlyFans\" jednak z nastawieniem na zupe\u0142nie inny content - memy kt\u00f3re wszyscy kochaj\u0105 i s\u0105 tak blisko mojemu sercu.",
         "readme_short": "OnlyMemes is a humorous, community-driven platform aimed at creators who can share their original memes and potentially monetize their content through a subscription-based model similar to OnlyFans. The project emphasizes ethical content sharing by allowing users to post only their own creations, with an approval system in place to ensure appropriate content. Built with a focus on learning and exploring unconventional technical decisions, the project's architecture includes storing memes on Discord servers and maintaining user anonymity to comply with GDPR. Despite being a work in progress, it features user authentication, a follow system, and basic meme interactions like comments and likes, while also outlining plans for enhanced user feed algorithms and payment integration.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "No",
             "question_2": "Yes",
@@ -2249,6 +2340,7 @@
         "totalChanges": 4554,
         "description": "Aplikacja wspieraj\u0105ca zorganizowane grupy kibic\u00f3w w rozwoju swojej spo\u0142eczno\u015bci",
         "readme_short": "This project appears to be a comprehensive community-centric platform designed to enable users to create, manage, and interact within communities. Key features include user account management with functionalities like creating, logging in, and editing profiles. Users can also create, view, and interact within communities through posts and comments. The platform supports news items, segmented into general news, sports news, and gadget news, where users can write, edit, and comment. Additionally, there are notification systems to keep users informed about new activities, and a chat feature is planned to facilitate direct messaging between users. Administrative tools enable oversight over users, communities, posts, and comments, adding a layer of governance to the platform.",
+        "language": "C#",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -2272,6 +2364,7 @@
         "totalChanges": 23620,
         "description": "Builder stron, jako WYSIWYG w reakcie, w stylu dodawania slidera na stron\u0119, mapki itd.",
         "readme_short": "\"What You See Is What I Hope You Get\" (WYSIWIHYG) is a project designed to provide a collection of React components for creating simple websites. It includes features such as image uploads, editable text headers, font selection, and two-column layout components, all built using Firestore and Firebase emulators. The project aims to expand with additional features like an admin panel, social login, modal improvements, and translations, while having a focus on optimizing image uploads and enhancing the demo experience. The project is actively developed, with a structured TODO list and completed features like component layout and modal forms already in place. The demo is available at [wysiwihyg.netlify.app](https://wysiwihyg.netlify.app).",
+        "language": "JavaScript",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2296,6 +2389,7 @@
         "totalChanges": 18353,
         "description": "Manager link\u00f3w do film\u00f3w, przede wszystkim YT.",
         "readme_short": "TubeManager is a bookmark management application designed specifically for online video content, primarily YouTube\u2122. It allows users to efficiently manage bookmarks created through the SkyTube app by importing exported settings. The project includes comprehensive documentation and straightforward instructions for setup and operation, emphasizing its independent development and lack of affiliation with YouTube\u2122 or Google Inc.",
+        "language": "C#",
         "flags": {
             "question_1": "No",
             "question_2": "Yes",
@@ -2320,6 +2414,7 @@
         "totalChanges": 10644,
         "description": "Aplikacja webowa w kt\u00f3rej przechowasz wszystkie swoje 'dobra', na przyk\u0142ad P\u0142yty Winylowe, CD, Gry planszowe, ksi\u0105\u017cki. I nigdy nie zapomnisz co posiadasz",
         "readme_short": "\"Daily Meetings Assistant\" (nazwa robocza) is a project developed as part of the 100 Commit Challenge, designed to assist teams during their daily online meetings. The application aims to streamline the process of selecting and reading out best practices from a pre-defined collection, which can often be cumbersome when done manually. Key features include user registration and login, adding custom best practices, a database for data storage, random selection of practices by category, and AI-powered reading of the selected practices. Potential additional features include dark/light mode, multiple AI voice options, data collection on practices read, and advanced filtering options. The project utilizes technologies like Next.js, NextAuth.js, Shadcn UI, Tailwind CSS, Prisma, and Supabase. The project is released under the MIT License.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2343,6 +2438,7 @@
         "totalChanges": 4428,
         "description": "Monitorowanie wydajno\u015bci aplikacji hostowanych samodzielnie i w chmurze oraz \u015bledzenie b\u0142\u0119d\u00f3w, kt\u00f3re pomagaj\u0105 zespo\u0142om zajmuj\u0105cym si\u0119 oprogramowaniem widzie\u0107 wyra\u017aniej i szybciej rozwi\u0105zywa\u0107 problemy.",
         "readme_short": "Readme Mercurius is a comprehensive error-tracking application designed to detect, monitor, and report software errors. It allows users to submit error reports, assign and track issues, set priorities and statuses, and maintain a history of changes. The application sends automatic notifications about status changes and generates detailed reports on error statistics. Utilizing clean architecture principles, it separates responsibility across different layers to enhance maintainability, scalability, and testability. The stack includes ASP.NET Core 8, Entity Framework Core 8, Wolverine, and various databases like SqlServer, PostgreSQL, and MySQL. The application also offers a versatile Docker Compose setup for easy deployment and supports C# SDK for error information collection and API submission.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2375,6 +2471,7 @@
         "totalChanges": 1865,
         "description": "Backend dla e-commerce z wykorzystaniem graphql",
         "readme_short": "The E-commerce Backend project is designed to provide the server-side functionality necessary to support an online store. This includes handling product listings, managing user accounts, processing orders, managing inventory, and providing secure payment gateways. The backend is typically built using a robust framework and connects to a database to store and retrieve data. It ensures that the e-commerce platform operates smoothly and efficiently, enabling seamless transactions and a reliable shopping experience for users.",
+        "language": "Ruby",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -2398,6 +2495,7 @@
         "totalChanges": 1210,
         "description": "Narz\u0119dzie, kt\u00f3re pozwala na wybranie dowolnej kolumny z tabeli excela, open office itp., b\u0105d\u017a pliku csv,  json. A nast\u0119pnie u\u017cycie tych danych celem stworzenia wykresu.\nJest dodana opcja czytania komend poprzez bibliotek\u0119 g\u0142osow\u0105 Pythona, kt\u00f3r\u0105 doda\u0142em do projektu.",
         "readme_short": "EasySelect is a Python-based application specifically crafted to streamline the management and manipulation of data across multiple file formats, including Excel (.xlsx), CSV, and JSON. Aimed at users with no programming background, it offers an intuitive interface to select, transfer, and summarize columns from different files effortlessly. With planned enhancements such as a graphical interface, data visualization capabilities, and expanded file support including .txt, .ods, and SQL files, EasySelect aspires to be an all-encompassing solution for data handling. The existing script already supports opening, inspecting, and transferring data across the supported formats, with future improvements centered on code refactoring towards a class-based, object-oriented approach for greater flexibility.",
+        "language": "Python",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2421,6 +2519,7 @@
         "totalChanges": 12827,
         "description": "It's not a single application repository. It contains of few apps with different level of complexity. The porpouse of this project is to learn new language - Go.",
         "readme_short": "The \"Microservices in Golang\" project is a practical exercise in implementing a microservices architecture using the Go programming language, designed primarily to practice design patterns. This project entails several microservices including a Client for serving web pages, an Authorization service for user validation, a Broker to distribute user actions to the appropriate services, a Logger to store logs in a MongoDB database, a Mail service, and a Listener for processing events from a RabbitMQ queue. The repository also contains mini projects like \"breeders\" for design pattern practice, and \"ecom,\" an e-commerce application to manage user orders.",
+        "language": "Go",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -2444,6 +2543,7 @@
         "totalChanges": 2665,
         "description": "Aplikacja do planowania codziennych zada\u0144",
         "readme_short": "The \"MyPlanner\" application is a planning and calendar tool designed to help users organize their schedules and manage their time efficiently. It likely provides features such as event planning, reminders, and possibly integrations with other calendar services to streamline the user's daily, weekly, and monthly planning tasks.",
+        "language": "Java",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -2467,6 +2567,7 @@
         "totalChanges": 2273,
         "description": "Aplikacja CLI s\u0142u\u017c\u0105c\u0105 do generowania changelogu na podstawie commit\u00f3w w standardzie conventional commit",
         "readme_short": "The \"Rust Conventional Commits\" project provides tools to adhere to the Conventional Commits specification (version 1.0.0), specifically aimed at linting commit messages to ensure they follow the defined format. It also serves as a learning exercise for Rust programming. The project currently includes a commit message linter, and future plans include adding a changelog generator and comprehensive documentation. Users can integrate these tools into their Git workflow by installing hooks using the provided commands.",
+        "language": "Rust",
         "flags": {
             "question_1": "No",
             "question_2": "Yes",
@@ -2491,6 +2592,7 @@
         "totalChanges": 1862,
         "description": "Narz\u0119dzie do zarz\u0105dzania rozproszon\u0105 pami\u0119ci\u0105 podr\u0119czn\u0105.",
         "readme_short": "Cafard is a distributed cache server written in Rust, designed to offer scalability, fault tolerance, and high performance by leveraging the robustness of Rust. It features an HTTP server interface for easy integration with various applications and services, and includes a command-line interface (CLI) for efficient management and interaction. Future enhancements planned for Cafard include extending the CLI, providing a Docker image, and enriching server functionalities.",
+        "language": "Rust",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2514,6 +2616,7 @@
         "totalChanges": 18921,
         "description": "Project includes:\n- Solutions for exercises from https://www.amazon.com/dp/113318779X\n- Simple homepage for this project, hosted on GitHub Pages: https://mharbuz.github.io/itttoc-exercises/\n- Visual Studio Code workspace settings for building Latex documents.\n- Example of GitHub action to build Latex documents and deploy them to GitHub Pages.",
         "readme_short": "This project comprises solutions to exercises from Michael Sipser's \"Introduction to the Theory of Computation\" and serves as an exemplary resource for using LaTeX to produce scientific documents featuring mathematical expressions and graphs. It provides various LaTeX code examples for math expressions, vectors, matrices, and different types of graphs. Additionally, the project showcases a developer environment configured in Visual Studio Code for LaTeX document creation, along with a GitHub Actions workflow for automated PDF generation and GitHub Pages deployment. The repository includes a simple homepage hosted on GitHub Pages, offering users a practical reference for managing LaTeX documents in a collaborative and automated manner.",
+        "language": "Inny",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2538,6 +2641,7 @@
         "totalChanges": 18388,
         "description": "Czyli prosty system share\u2019owania walizek.\nBo ma\u0142o kto potrzebuje jej non stop.\nWypo\u017cyczaj\u0105cy p\u0142aci\u0142by u\u0142amek jej ceny w\u0142a\u015bcicielowi, a ten zarabia\u0142by na walizce w czasie kiedy jej nie u\u017cywa.",
         "readme_short": "The project is accompanied by descriptive documentation that includes an English version available in `ABOUT-en.md` and a Polish version in `ABOUT-pl.md`. For installation guidance, users can refer to the detailed instructions provided in `INSTALLATION.md`. This structured approach ensures comprehensive understanding and seamless installation for both English and Polish-speaking users.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -2561,6 +2665,7 @@
         "totalChanges": 10237,
         "description": "A embeded IOT solution of something I haven't specified yet :)",
         "readme_short": "The \"100com_project\" is a microcontroller-based project for the \"100 commits\" challenge, utilizing an ESP32 or similar device with WiFi or Bluetooth capability, an e-paper display, various sensors, and control buttons. The battery-powered device will allow for interaction and configuration through a web panel or dedicated application, although its final functionality has not yet been determined. The project's current focus is on developing the SSD1680 e-paper library, with progress showcased through photos and videos of image and character display tests.",
+        "language": "C++",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2585,6 +2690,7 @@
         "totalChanges": 9914,
         "description": "Pierwszy Opis:\nZ racji ma\u0142ego do\u015bwiadczenia w programowaniu spr\u00f3buj\u0119 stworzy\u0107 w\u0142asn\u0105 funkcjonaln\u0105 stron\u0119 internetow\u0105, mam koncepcje ale nie wiem co z tego wyjdzie, zobaczymy...\nCo po 100 dniach? \nZrobi\u0142em du\u017co wi\u0119cej ni\u017c si\u0119 spodziewa\u0142em. W\u0142asna strona,generator do test\u00f3w, kilka projekt\u00f3w do portfolio , wypr\u00f3bowa\u0107 playwrighta i przetrwa\u0107 100dni!",
         "readme_short": "The Personal Portfolio Site repository hosts the code for an online portfolio designed to showcase the creator's projects, skills, and professional experiences, primarily in QA and Low Code development. This responsive portfolio is part of the [100comitow challenge](https://100commitow.pl/repozytoria), featuring sections for project displays, skill listings, and a contact form for inquiries and collaborations. Implemented using HTML5, CSS3, JavaScript, and Playwright + TypeScript for testing, the site provides an intuitive and clean user experience across various devices. The repository includes instructions for local setup and encourages community contributions and improvements. For a live demo, visit [the demo link](https://elhispanopolako.github.io/personalSite/).",
+        "language": "JavaScript",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2609,6 +2715,7 @@
         "totalChanges": 8848,
         "description": "Application for tracking team competition results",
         "readme_short": "TeamTally is an application designed to boost productivity and motivation within organizations by allowing employees to complete various challenges to earn points. It facilitates the creation of events, formation of teams, addition of participants, and the assignment of challenges that can be marked as completed by an admin. Participants and teams can gain points through challenge completions and track their progress in individual and team rankings. The app is built using Java 21, Spring Boot 3, Hibernate 6, and Vaadin 24, providing a robust and modern tech stack for seamless functionality.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2632,6 +2739,7 @@
         "totalChanges": 8277,
         "description": "System to voting on movies",
         "readme_short": "The \"MoviesRating\" project is a Web API built using .NET 8 and an SQL Server database. It enables users to add movies along with their genres and directors, create accounts, log in, and vote on existing movies. The system offers functionality to view lists of top-rated movies overall, as well as by genre and director. The project employs technologies such as ASP.NET Core Web API, Clean Architecture, Entity Framework Core, CQRS, MediatR, Docker, and xUnit for testing.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2655,6 +2763,7 @@
         "totalChanges": 4443,
         "description": "Aplikacja do zarz\u0105dzania plac\u00f3wkami takimi jak przedszkola, \u017c\u0142obki, poradnie niepubliczne.",
         "readme_short": "e-Kid is a .NET 8 based multi-tenancy SaaS application designed to manage Psychological-Pedagogical Counseling Centers effectively. The application focuses on robust permissions and roles management to ensure secure user access. Leveraging the CQRS pattern, it efficiently validates commands and requests, ensuring proper user role control. Key features include therapist and therapy room availability tracking, scheduling, electronic session logging, and notification alerts for missed or unpaid sessions. This repository serves as a training project to model interesting patterns and best practices in software design and architecture while providing a useful tool for managing counseling centers. The project employs PostgreSQL as its database and facilitates deployment via Docker for easy setup.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2678,6 +2787,7 @@
         "totalChanges": 4096,
         "description": "G\u0142\u00f3wnym celem jest wytrwanie w wyzwaniu, a przy okazji wypr\u00f3bowanie funkcjonalno\u015bci .NET z kt\u00f3rych jeszcze nie korzysta\u0142em lub takich z kt\u00f3rych dawno nie korzysta\u0142em. Og\u00f3lnie - zlew.",
         "readme_short": "The \"100commits\" project is a .NET-based initiative aiming to explore and implement a variety of software development concepts and practices. The project includes tasks such as creating value objects, using and testing with `TestContainers`, and experimenting with Entity Framework and Dapper for data storage. Additionally, it focuses on containerizing applications with Docker, setting up GitHub Actions for continuous integration, and developing gRPC demo applications for air quality monitoring. The project also touches on UI localization, architecture enforcement with ArchUnitNET, and event bus implementation for Blazor components. The goal is to progressively push commits while testing and refining these implementations, as evidenced by the setup of GitHub Actions to automatically build, run tests, and update documentation. The project is detailed further at [100commitow.pl](https://100commitow.pl/).",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2702,6 +2812,7 @@
         "totalChanges": 3890,
         "description": "Projekt b\u0119dzie prezentowa\u0142 pikselow\u0105 gr\u0119 2d opart\u0105 na elemntach survivalu i craftingu.\nSam koncept jest bardzo og\u00f3lny i b\u0119dzie rozwijany oraz doprecyzowany w trakcie trwania konkursu.",
         "readme_short": "Hoarder is an indie 2D pixel-art game in its early stages of development. The developer, new to the Godot engine, is simultaneously learning and building the game. Despite minimal progress on Hoarder, the developer has maintained nearly 100 consecutive days of commits, working on smaller unpublished games and gaining a fundamental understanding of the engine. The project is a work in progress with aspirations for further development.",
+        "language": "C#",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -2725,6 +2836,7 @@
         "totalChanges": 2170,
         "description": "Aplikacja webowa maj\u0105ca za zadanie pom\u00f3c  u\u017cytkownikowi przygotowanie do rozm\u00f3w o prac\u0119.",
         "readme_short": "IntPrep is a comprehensive job interview preparation web application developed as part of the \"100 Commits\" initiative, leveraging technologies such as Java, Spring Boot, Lombok, and PostgreSQL. The application offers a wide range of features including user registration and management, CRUD operations for questions and answers across various domains, the ability to mark questions as favorites or completed, and progress tracking. It also includes functionalities for generating random question sets for practice, email notifications/reminders, JWT authentication, and extensive use of Spring Security for user authentication. The project emphasizes robust testing with JUnit and Mockito, and aims for cloud deployment with continuous integration and deployment pipelines.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2748,6 +2860,7 @@
         "totalChanges": 798,
         "description": "Chcia\u0142bym napisa\u0107 Bloga (CRUD) w C#. Backend webapi + front blazor. Moim g\u0142\u00f3wnym celem podczas tego projektu jest poszerzenie wiedzy zwi\u0105zanej z webapi i blazor. ",
         "readme_short": "The project is an open-source blog web application designed to be managed directly from a Git repository. It enables automatic synchronization of blog content, settings, authors, categories, and series from a specified Git repository into the blog's database, facilitated by templates. The architecture boasts a modular monolith structure with multi-tenancy, leveraging MassTransit and RabbitMQ for message handling, and various modern solutions such as PostgreSQL for database management and MinIO for object storage. It features CRUD operations for posts, categories, tags, series, files, and repositories, with planned future enhancements including a comments system, admin dashboard, external content provider integration, and donation capabilities. The application is designed with scalability and flexibility in mind, allowing dynamic content updates via webhooks for immediate synchronization.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2771,6 +2884,7 @@
         "totalChanges": 569,
         "description": "sound analyzer in java ",
         "readme_short": "The \"100 commit\u00f3w\" challenge application, available at https://100commitow.pl/, includes a virtual audio analyzer called \"sound-analyzer\" for analyzing WAVE audio files. The project is built using Java 21, JavaFX 21, and Maven. It provides a sound level meter as its core MVP feature. To run the application, specific Java VM options are required to include the necessary JavaFX modules.",
+        "language": "Java",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2794,6 +2908,7 @@
         "totalChanges": 539,
         "description": "\u0142apanie jajek do koszyka lub arkanoid",
         "readme_short": "The \"c100-game\" project is an endeavor to create a game inspired by the classic ARKANOID genre, focusing on various stages such as refreshing HTML skills, particularly with the canvas element, implementing button events, and developing mechanics for movement, bouncing, and collision detection. The project also aims to incorporate graphics, levels, and brick lives. Potential future enhancements include level editing, bonuses, bosses, and possibly rewriting the game using React.",
+        "language": "JavaScript",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -2817,6 +2932,7 @@
         "totalChanges": 10870,
         "description": "Aplikacja webowa, kt\u00f3ra ma wspiera\u0107 dbanie o zwierzaki, m\u00f3c oferowa\u0107 szybki podgl\u0105d obecnych zwierz\u0105t w schronisku oraz raportowanie aktualnych informacji o tym co si\u0119 dzieje w schronisku",
         "readme_short": "NexoLink is a project that appears to involve an unexpected shift in complexity, moving from an initially straightforward approach to a more intricate and challenging endeavor. The README file indicates a significant change in project objectives or methodology, likened to a leap into deep water, suggesting that either the scope, technical requirements, or strategic goals have evolved to become more demanding.",
+        "language": "PHP",
         "flags": {
             "question_1": "No",
             "question_2": "No",
@@ -2840,6 +2956,7 @@
         "totalChanges": 5017,
         "description": "Testy automatyczne w Playwright. Tak, wiem. Nie jestem programistk\u0105, nie zrobi\u0119 \"wow\", nie wygram  ;) ale mo\u017ce chocia\u017c czego\u015b si\u0119 naucz\u0119 :)",
         "readme_short": "This project contains a suite of automated tests for the web application available at justjoin.it, utilizing the Playwright testing framework. To set up the environment locally, it recommends using Visual Studio Code, Git, and a compatible version of Node.js (greater than 16). Installation involves setting up dependencies, Playwright, and Husky for handling git hooks. The primary command to execute all tests is `npx playwright test`, with additional usage examples found in the `scripts` section of the `package.json` file.",
+        "language": "TypeScript",
         "flags": {
             "question_1": "Yes",
             "question_2": "Yes",
@@ -2863,6 +2980,7 @@
         "totalChanges": 222890,
         "description": "'U mnie dzia\u0142a' - prosty dashboard i manager test\u00f3w u\u0142atwiaj\u0105cy tworzenie plan\u00f3w test\u00f3w i raport\u00f3w z wykonanych test\u00f3w. ",
         "readme_short": "This project is a simple application designed to perform and execute SMOTE (Synthetic Minority Over-sampling Technique) tests for your application. Built with React.js, Bootstrap, and DotNet, the application aims to improve data balance in machine learning datasets by generating synthetic samples. It integrates with various tools such as Todoist, JIRA, and Confluence to streamline workflows. The README.md template used in this project is credited to the \"Best-README-Template\" repository by othneildrew.",
+        "language": "C#",
         "flags": {
             "question_1": "Yes",
             "question_2": "No",
@@ -2887,6 +3005,7 @@
         "totalChanges": 74,
         "description": "100commitow to be continued",
         "readme_short": "The \"100commitow\" project is designed to encourage and track the progress of making 100 commits to a Git repository. The README.md file likely offers guidance on how users can contribute to the project, set goals for themselves, and sustain a consistent habit of committing code. The overarching aim is to foster good coding practices, regular contributions, and continuous learning among developers, whether they are beginners looking to improve or seasoned professionals aiming to maintain coding diligence.",
+        "language": "C#",
         "flags": {
             "question_1": "No",
             "question_2": "No",
