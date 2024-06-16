@@ -1,5 +1,5 @@
 
-# dfyda/slothful-crud (Biblioteka)
+# dfyda/slothful-crud (Biblioteka) (C#)
 https://github.com/dfyda/slothful-crud
 ## Demo
 Not provided
@@ -39,7 +39,7 @@ Slothful CRUD is a library that simplifies the creation of CRUD (Create, Read, U
 | Size of Files                | 381 KB |
 | Size of Git repository       | 541 KB |
     
-# mateuszmigas/painting-droid (Aplikacja webowa)
+# mateuszmigas/painting-droid (Aplikacja webowa) (TypeScript)
 https://github.com/mateuszmigas/painting-droid
 ## Demo
 https://painting-droid-web.vercel.app/
@@ -78,7 +78,7 @@ Painting Droid is an AI-powered, cross-platform painting application inspired by
 | Size of Files                | 12763 KB |
 | Size of Git repository       | 15525 KB |
     
-# adimiko/TransactionalBox (Framework)
+# adimiko/TransactionalBox (Framework) (C#)
 https://github.com/adimiko/TransactionalBox
 ## Demo
 https://www.youtube.com/watch?v=EXPRs9cnCnw&ab_channel=DJTV98
@@ -118,7 +118,7 @@ The "Outbox and Inbox pattern in .NET" project aims to provide a robust solution
 | Size of Files                | 1764 KB |
 | Size of Git repository       | 17016 KB |
     
-# ktutak1337/Stellar-Chat (Aplikacja webowa)
+# ktutak1337/Stellar-Chat (Aplikacja webowa) (C#)
 https://github.com/ktutak1337/Stellar-Chat
 ## Demo
 Not provided
@@ -157,7 +157,7 @@ Stellar Chat is a versatile multi-modal chat application designed to enhance use
 | Size of Files                | 452 KB |
 | Size of Git repository       | 623 KB |
     
-# cebilon123/waffle (Narzędzie)
+# cebilon123/waffle (Narzędzie) (Go)
 https://github.com/cebilon123/waffle
 ## Demo
 Not provided
@@ -196,7 +196,7 @@ The project "WAFFLE" is an open-source Web Application Firewall (WAF) designed t
 | Size of Files                | 10292 KB |
 | Size of Git repository       | 10608 KB |
     
-# Havret/dotnet-activemq-artemis-core-client (Biblioteka)
+# Havret/dotnet-activemq-artemis-core-client (Biblioteka) (C#)
 https://github.com/Havret/dotnet-activemq-artemis-core-client
 ## Demo
 Not provided
@@ -235,7 +235,7 @@ The .NET CORE Client for Apache ActiveMQ Artemis is an open-source .NET library 
 | Size of Files                | 1722 KB |
 | Size of Git repository       | 1533 KB |
     
-# Prakson/checkers (Aplikacja webowa)
+# Prakson/checkers (Aplikacja webowa) (C#)
 https://github.com/Prakson/checkers
 ## Demo
 https://thankful-bay-00e121503.5.azurestaticapps.net/
@@ -274,7 +274,7 @@ Smart Checkers is a versatile platform for playing the classic game of Checkers,
 | Size of Files                | 1461 KB |
 | Size of Git repository       | 2189 KB |
     
-# vandalton/BertaAndButterflies (Gra)
+# vandalton/BertaAndButterflies (Gra) (Inny)
 https://github.com/vandalton/BertaAndButterflies
 ## Demo
 https://javatari.org/?ROM=https://github.com/vandalton/BertaAndButterflies/releases/download/v1.00/berta-and-butterflies.v1.00.ntsc.en.bin
@@ -313,7 +313,7 @@ Gra na Atari 2600. Chcę podczas konkursu nauczyć się programować procesor 65
 | Size of Files                | 50649 KB |
 | Size of Git repository       | 46615 KB |
     
-# PawelHaracz/labraboard (Infrastruktura)
+# PawelHaracz/labraboard (Infrastruktura) (Go)
 https://github.com/PawelHaracz/labraboard
 ## Demo
 https://github.com/PawelHaracz/labraboard/assets/14162492/c2f6f8ab-9c3e-4419-8ccf-45582b602639
@@ -352,7 +352,7 @@ Labraboard is an advanced, state-aware Infrastructure as Code (IaC) management p
 | Size of Files                | 18377 KB |
 | Size of Git repository       | 15940 KB |
     
-# Olszewskidev/lens-up (Aplikacja webowa)
+# Olszewskidev/lens-up (Aplikacja webowa) (C#)
 https://github.com/Olszewskidev/lens-up
 ## Demo
 https://www.youtube.com/watch?v=_exXjulBKqI
@@ -391,7 +391,7 @@ Czy kiedykolwiek byłeś na weselu lub przyjęciu urodzinowym? Jeśli tak, prawd
 | Size of Files                | 3204 KB |
 | Size of Git repository       | 2104 KB |
     
-# pawlos/symmetrical-octo-broccoli (Narzędzie)
+# pawlos/symmetrical-octo-broccoli (Narzędzie) (C++)
 https://github.com/pawlos/symmetrical-octo-broccoli
 ## Demo
 https://www.dropbox.com/scl/fi/04hipywza185yj8gcmw0b/octo-profiler.gif?rlkey=jnq7vz5r4rzdek7kmx1sqiist&e=1&st=4fueg308&dl=0&raw=1
@@ -436,7 +436,7 @@ Current version allows running .NET programs under the profiler and collect bunc
 | Size of Files                | 4147 KB |
 | Size of Git repository       | 8627 KB |
     
-# Frognar/Expense-Explorer (Aplikacja webowa)
+# Frognar/Expense-Explorer (Aplikacja webowa) (C#)
 https://github.com/Frognar/Expense-Explorer
 ## Demo
 Not provided
@@ -475,7 +475,7 @@ Expense Explorer is an expense tracking application designed for personal use on
 | Size of Files                | 1446 KB |
 | Size of Git repository       | 1499 KB |
     
-# AaronSausage/prismeto (Aplikacja webowa)
+# AaronSausage/prismeto (Aplikacja webowa) (Ruby)
 https://github.com/AaronSausage/prismeto
 ## Demo
 https://app.netlify.com/sites/prismeto/deploys
@@ -523,7 +523,7 @@ Prismeto is a project aimed at empowering engineers to effectively promote their
 | Size of Files                | 2075 KB |
 | Size of Git repository       | 1150 KB |
     
-# xYundy/SquaredAdditions (Inne)
+# xYundy/SquaredAdditions (Inne) (Java)
 https://github.com/xYundy/SquaredAdditions
 ## Demo
 Not provided
@@ -562,7 +562,7 @@ The "Squared Additions" project is a Minecraft: Java Edition mod designed for th
 | Size of Files                | 518 KB |
 | Size of Git repository       | 639 KB |
     
-# KogelMogel123/BudgetBuddy (Aplikacja mobilna)
+# KogelMogel123/BudgetBuddy (Aplikacja mobilna) (Kotlin)
 https://github.com/KogelMogel123/BudgetBuddy
 ## Demo
 https://github.com/KogelMogel123/BudgetBuddy/assets/19485654/5e7edb4d-5001-4b7b-9750-89ba698d2add
@@ -601,7 +601,7 @@ BudgetBuddy is an Android application developed in Kotlin designed to manage per
 | Size of Files                | 68869 KB |
 | Size of Git repository       | 38358 KB |
     
-# rayros/image-resizer (Narzędzie)
+# rayros/image-resizer (Narzędzie) (Rust)
 https://github.com/rayros/image-resizer
 ## Demo
 https://app.getpostman.com/run-collection/1281512-ce9f3b4a-5c85-49d0-b794-97999b48a0c7?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D1281512-ce9f3b4a-5c85-49d0-b794-97999b48a0c7%26entityType%3Dcollection%26workspaceId%3D1ee2b3bc-b936-48d7-b034-ff9b999f9ee5
@@ -640,7 +640,7 @@ Respicta is a comprehensive tool that facilitates the resizing and format conver
 | Size of Files                | 17547 KB |
 | Size of Git repository       | 12160 KB |
     
-# jarmatys/DEV_ASSISTENTE (Aplikacja webowa)
+# jarmatys/DEV_ASSISTENTE (Aplikacja webowa) (C#)
 https://github.com/jarmatys/DEV_ASSISTENTE
 ## Demo
 https://app.assistente.dev
@@ -679,7 +679,7 @@ AI asystent programisty, którego celem będzie nauczenie się całego kodu apli
 | Size of Files                | 3060 KB |
 | Size of Git repository       | 3636 KB |
     
-# manhunto/webhooks-rs (Infrastruktura)
+# manhunto/webhooks-rs (Infrastruktura) (Rust)
 https://github.com/manhunto/webhooks-rs
 ## Demo
 Not provided
@@ -718,7 +718,7 @@ Konfigurowalny silnik do wysyłania webhooków z wbudowanym retry policy i circu
 | Size of Files                | 316 KB |
 | Size of Git repository       | 849 KB |
     
-# jklebucki/AJKIOTSolution (Inne)
+# jklebucki/AJKIOTSolution (Inne) (C#)
 https://github.com/jklebucki/AJKIOTSolution
 ## Demo
 https://iot.ajksoftware.pl/
@@ -757,7 +757,7 @@ The AJKIOTSolution project aims to develop an independent IoT platform, encompas
 | Size of Files                | 7198 KB |
 | Size of Git repository       | 8657 KB |
     
-# gwalus/Dollet (Aplikacja mobilna)
+# gwalus/Dollet (Aplikacja mobilna) (C#)
 https://github.com/gwalus/Dollet
 ## Demo
 https://github.com/gwalus/Dollet/releases/latest/download/dollet.apk
@@ -798,7 +798,7 @@ Dollet is a personal budget management application designed to consolidate all f
 | Size of Files                | 8860 KB |
 | Size of Git repository       | 8583 KB |
     
-# keyroll-99/EasyApi (Framework)
+# keyroll-99/EasyApi (Framework) (C#)
 https://github.com/keyroll-99/EasyApi
 ## Demo
 Not provided
@@ -842,7 +842,7 @@ Fiona is a web API framework developed in .Net, designed to allow developers to 
 | Size of Files                | 1112 KB |
 | Size of Git repository       | 984 KB |
     
-# blumek/aura-tower (Narzędzie)
+# blumek/aura-tower (Narzędzie) (Java)
 https://github.com/blumek/aura-tower
 ## Demo
 https://www.youtube.com/watch?v=vA4TfWpt0PY
@@ -881,7 +881,7 @@ Aura Tower is an open-source project aimed at simplifying the control and monito
 | Size of Files                | 2437 KB |
 | Size of Git repository       | 1940 KB |
     
-# Atholn/PokeWars (Gra)
+# Atholn/PokeWars (Gra) (C++)
 https://github.com/Atholn/PokeWars
 ## Demo
 Not provided
@@ -920,7 +920,7 @@ PokeWars is an open-world survival game set in a prehistoric Pokémon universe w
 | Size of Files                | 104188 KB |
 | Size of Git repository       | 752624 KB |
     
-# ArcticLeopard/Freezbe (Aplikacja webowa)
+# ArcticLeopard/Freezbe (Aplikacja webowa) (TypeScript)
 https://github.com/ArcticLeopard/Freezbe
 ## Demo
 http://www.freezbe.pl/
@@ -963,7 +963,7 @@ Freezbe is a privacy-focused task management application designed to keep your d
 | Size of Files                | 1173 KB |
 | Size of Git repository       | 9378 KB |
     
-# RobertAmbroziak/BudgetWallet (Aplikacja webowa)
+# RobertAmbroziak/BudgetWallet (Aplikacja webowa) (C#)
 https://github.com/RobertAmbroziak/BudgetWallet
 ## Demo
 https://budgetwalletapp.azurewebsites.net/
@@ -1002,7 +1002,7 @@ Aplikacja webowa do prowadzenia budżetu domowego
 | Size of Files                | 5493 KB |
 | Size of Git repository       | 7282 KB |
     
-# Adriann77/GPTQuizBuilder (Aplikacja webowa)
+# Adriann77/GPTQuizBuilder (Aplikacja webowa) (TypeScript)
 https://github.com/Adriann77/GPTQuizBuilder
 ## Demo
 https://gpt-quiz-builder.vercel.app/
@@ -1041,7 +1041,7 @@ GPT-QuizBuilder is a project designed to create customized quizzes for education
 | Size of Files                | 4381 KB |
 | Size of Git repository       | 33439 KB |
     
-# pcmagik/100_days_to_devops (Infrastruktura)
+# pcmagik/100_days_to_devops (Infrastruktura) (Python)
 https://github.com/pcmagik/100_days_to_devops
 ## Demo
 Not provided
@@ -1080,7 +1080,7 @@ Będzie to próba stworzenia infrastruktury labowej do testów najnowszych techn
 | Size of Files                | 838 KB |
 | Size of Git repository       | 818 KB |
     
-# dalionsystem/dataGuard (Infrastruktura)
+# dalionsystem/dataGuard (Infrastruktura) (Inny)
 https://github.com/dalionsystem/dataGuard
 ## Demo
 Not provided
@@ -1123,7 +1123,7 @@ DataGuard is a permission management and audit system for SQL Server databases, 
 | Size of Files                | 193 KB |
 | Size of Git repository       | 247 KB |
     
-# FritzTheCat9/YoutubeLinks (Aplikacja webowa)
+# FritzTheCat9/YoutubeLinks (Aplikacja webowa) (C#)
 https://github.com/FritzTheCat9/YoutubeLinks
 ## Demo
 https://www.youtube.com/watch?v=G1gY-jynpu0
@@ -1162,7 +1162,7 @@ YoutubeLinks is a versatile application that allows users to save YouTube links 
 | Size of Files                | 61373 KB |
 | Size of Git repository       | 62899 KB |
     
-# ola-zbieranska/easy-free-dashboard-app (Aplikacja webowa)
+# ola-zbieranska/easy-free-dashboard-app (Aplikacja webowa) (Python)
 https://github.com/ola-zbieranska/easy-free-dashboard-app
 ## Demo
 https://easy-dashboard-decc90fbd66e.herokuapp.com/home
@@ -1202,7 +1202,7 @@ Easy Dashboard is an application designed for creating data visualizations using
 | Size of Files                | 293 KB |
 | Size of Git repository       | 464 KB |
     
-# Karlos348/dBlik (Aplikacja webowa)
+# Karlos348/dBlik (Aplikacja webowa) (Rust)
 https://github.com/Karlos348/dBlik
 ## Demo
 https://dblik.vercel.app/
@@ -1245,7 +1245,7 @@ dBlik is a distributed payment application inspired by the BLIK system, leveragi
 | Size of Files                | 8771 KB |
 | Size of Git repository       | 28737 KB |
     
-# artskoczylas/PortfolioEye (Aplikacja webowa)
+# artskoczylas/PortfolioEye (Aplikacja webowa) (C#)
 https://github.com/artskoczylas/PortfolioEye
 ## Demo
 https://demo.portfolioeye.app/
@@ -1284,7 +1284,7 @@ PortfolioEye is an open-source application designed for individual investors to 
 | Size of Files                | 3963 KB |
 | Size of Git repository       | 873 KB |
     
-# olsza/API-simulator (Narzędzie)
+# olsza/API-simulator (Narzędzie) (PHP)
 https://github.com/olsza/API-simulator
 ## Demo
 Not provided
@@ -1326,7 +1326,7 @@ The API Simulator is an upcoming open-source project that aims to enable develop
 | Size of Files                | 1499 KB |
 | Size of Git repository       | 1357 KB |
     
-# margosmat/translord (Narzędzie)
+# margosmat/translord (Narzędzie) (C#)
 https://github.com/margosmat/translord
 ## Demo
 https://github.com/margosmat/translord/assets/25266191/198265df-2397-4b0d-ab4d-5172cdf6bd75
@@ -1365,7 +1365,7 @@ translord - simple TMS to get your translations up and running in no time.
 | Size of Files                | 1643 KB |
 | Size of Git repository       | 924 KB |
     
-# Imbasaur/gomoku (Aplikacja webowa)
+# Imbasaur/gomoku (Aplikacja webowa) (C#)
 https://github.com/Imbasaur/gomoku
 ## Demo
 https://gomoku100.vercel.app
@@ -1404,7 +1404,7 @@ The Gomoku project is a web-based application designed to facilitate playing Gom
 | Size of Files                | 956 KB |
 | Size of Git repository       | 1076 KB |
     
-# MRmlik12/note-shr (Narzędzie)
+# MRmlik12/note-shr (Narzędzie) (C#)
 https://github.com/MRmlik12/note-shr
 ## Demo
 https://note-shr.dolczyk.rocks
@@ -1451,7 +1451,7 @@ NoteSHR is a cross-platform application designed to help users create and organi
 | Size of Files                | 3463 KB |
 | Size of Git repository       | 3608 KB |
     
-# janbanot/personal_assistant (Inne)
+# janbanot/personal_assistant (Inne) (Python)
 https://github.com/janbanot/personal_assistant
 ## Demo
 Not provided
@@ -1490,7 +1490,7 @@ The "Personal Assistant" project aims to create a virtual assistant to simplify 
 | Size of Files                | 3211 KB |
 | Size of Git repository       | 2873 KB |
     
-# SingleUnitBox/SurveyStore (Aplikacja webowa)
+# SingleUnitBox/SurveyStore (Aplikacja webowa) (C#)
 https://github.com/SingleUnitBox/SurveyStore
 ## Demo
 Not provided
@@ -1529,7 +1529,7 @@ SurveyStore is an intuitive application designed to assist professionals in main
 | Size of Files                | 1903 KB |
 | Size of Git repository       | 2132 KB |
     
-# maciej-MKan/chess (Aplikacja webowa)
+# maciej-MKan/chess (Aplikacja webowa) (Java)
 https://github.com/maciej-MKan/chess
 ## Demo
 Not provided
@@ -1568,7 +1568,7 @@ The Chess Game project is a web application designed to allow users to play ches
 | Size of Files                | 39369 KB |
 | Size of Git repository       | 39440 KB |
     
-# jurczewski/private-pdf-converter (CLI)
+# jurczewski/private-pdf-converter (CLI) (C#)
 https://github.com/jurczewski/private-pdf-converter
 ## Demo
 Not provided
@@ -1607,7 +1607,7 @@ PrivatePdfConverter is a secure and efficient offline tool for converting locall
 | Size of Files                | 151 KB |
 | Size of Git repository       | 190 KB |
     
-# UgzSourceCode/web-portfolio (Aplikacja webowa)
+# UgzSourceCode/web-portfolio (Aplikacja webowa) (TypeScript)
 https://github.com/UgzSourceCode/web-portfolio
 ## Demo
 Not provided
@@ -1646,7 +1646,7 @@ The "Portfolio App" is a project aimed at creating a personal web portfolio to s
 | Size of Files                | 15084 KB |
 | Size of Git repository       | 14588 KB |
     
-# Ewa-Anna/travel-planner (Aplikacja webowa)
+# Ewa-Anna/travel-planner (Aplikacja webowa) (Python)
 https://github.com/Ewa-Anna/travel-planner
 ## Demo
 Not provided
@@ -1691,7 +1691,7 @@ The "Travel Planner" is a comprehensive web application designed to assist users
 | Size of Files                | 844 KB |
 | Size of Git repository       | 843 KB |
     
-# Rabarbara2/animal-shelter-website (Aplikacja desktopowa)
+# Rabarbara2/animal-shelter-website (Aplikacja desktopowa) (TypeScript)
 https://github.com/Rabarbara2/animal-shelter-website
 ## Demo
 https://animal-shelter-website.vercel.app
@@ -1731,7 +1731,7 @@ The "Animal Shelter Website" project aims to develop an accessible and functiona
 | Size of Files                | 5415 KB |
 | Size of Git repository       | 4954 KB |
     
-# radthenone/olivin_store (Aplikacja webowa)
+# radthenone/olivin_store (Aplikacja webowa) (Python)
 https://github.com/radthenone/olivin_store
 ## Demo
 Not provided
@@ -1770,7 +1770,7 @@ The Olivin Store project is a comprehensive e-commerce application built with Vi
 | Size of Files                | 1833 KB |
 | Size of Git repository       | 1825 KB |
     
-# rudashi/fluent-regex (Biblioteka)
+# rudashi/fluent-regex (Biblioteka) (PHP)
 https://github.com/rudashi/fluent-regex
 ## Demo
 Not provided
@@ -1812,7 +1812,7 @@ It will help you with your learning as well as with the typing of very complicat
 | Size of Files                | 210 KB |
 | Size of Git repository       | 475 KB |
     
-# BartlomiejSwit/My-First-Game (Gra)
+# BartlomiejSwit/My-First-Game (Gra) (JavaScript)
 https://github.com/BartlomiejSwit/My-First-Game
 ## Demo
 https://bartlomiejswit.github.io/My-First-Game/
@@ -1851,7 +1851,7 @@ To będzie moja pierwsza gra, przesuwanie klocków.
 | Size of Files                | 656 KB |
 | Size of Git repository       | 283 KB |
     
-# undermad/diet-generator-api (Aplikacja webowa)
+# undermad/diet-generator-api (Aplikacja webowa) (Java)
 https://github.com/undermad/diet-generator-api
 ## Demo
 https://www.fatatu.com
@@ -1891,7 +1891,7 @@ Tech: Java i Spring Boot, Mongo, React
 | Size of Files                | 19857 KB |
 | Size of Git repository       | 83762 KB |
     
-# mlysien/integrify (Narzędzie)
+# mlysien/integrify (Narzędzie) (C#)
 https://github.com/mlysien/integrify
 ## Demo
 Not provided
@@ -1930,7 +1930,7 @@ Integration tool for synchronize data between ERP and e-commerce systems
 | Size of Files                | 3121 KB |
 | Size of Git repository       | 6174 KB |
     
-# cezarysanecki/parking-domain (Aplikacja webowa)
+# cezarysanecki/parking-domain (Aplikacja webowa) (Java)
 https://github.com/cezarysanecki/parking-domain
 ## Demo
 Not provided
@@ -1969,7 +1969,7 @@ The Parking Domain project is an educational experiment focused on developing a 
 | Size of Files                | 659 KB |
 | Size of Git repository       | 2573 KB |
     
-# ticklish-caiman/FunGA (Aplikacja webowa)
+# ticklish-caiman/FunGA (Aplikacja webowa) (Python)
 https://github.com/ticklish-caiman/FunGA
 ## Demo
 https://tc-funga.streamlit.app
@@ -2008,7 +2008,7 @@ FunGA is an educational project designed to help users understand genetic algori
 | Size of Files                | 6379 KB |
 | Size of Git repository       | 7620 KB |
     
-# Shakkozu/omniom (Aplikacja webowa)
+# Shakkozu/omniom (Aplikacja webowa) (C#)
 https://github.com/Shakkozu/omniom
 ## Demo
 https://www.youtube.com/watch?v=92kY-081AnM
@@ -2047,7 +2047,7 @@ Omniom is a comprehensive system designed for diet planning and monitoring of cu
 | Size of Files                | 5391 KB |
 | Size of Git repository       | 3273 KB |
     
-# Yigrashill/FinToUp (Aplikacja webowa)
+# Yigrashill/FinToUp (Aplikacja webowa) (C#)
 https://github.com/Yigrashill/FinToUp
 ## Demo
 Not provided
@@ -2086,7 +2086,7 @@ FinToUp is a financial management project aimed at helping users track their mon
 | Size of Files                | 884 KB |
 | Size of Git repository       | 1125 KB |
     
-# GrPe/Overmoney (Aplikacja webowa)
+# GrPe/Overmoney (Aplikacja webowa) (C#)
 https://github.com/GrPe/Overmoney
 ## Demo
 Not provided
@@ -2125,7 +2125,7 @@ Piece of code that will be keep your finances in one place
 | Size of Files                | 1956 KB |
 | Size of Git repository       | 1826 KB |
     
-# dragarthPl/home-periscope (Aplikacja webowa)
+# dragarthPl/home-periscope (Aplikacja webowa) (Python)
 https://github.com/dragarthPl/home-periscope
 ## Demo
 Not provided
@@ -2174,7 +2174,7 @@ The Home Periscope project seeks to enhance the accessibility of the ecoNET 300 
 | Size of Files                | 1062 KB |
 | Size of Git repository       | 730 KB |
     
-# pregula/cigarbase (Aplikacja webowa)
+# pregula/cigarbase (Aplikacja webowa) (C#)
 https://github.com/pregula/cigarbase
 ## Demo
 Not provided
@@ -2213,7 +2213,7 @@ CigarBase is a comprehensive application tailored for cigar enthusiasts, providi
 | Size of Files                | 358 KB |
 | Size of Git repository       | 391 KB |
     
-# nickofc/backynet (Infrastruktura)
+# nickofc/backynet (Infrastruktura) (C#)
 https://github.com/nickofc/backynet
 ## Demo
 Not provided
@@ -2252,7 +2252,7 @@ Backynet is a high-performance .NET library designed for executing background ta
 | Size of Files                | 173 KB |
 | Size of Git repository       | 327 KB |
     
-# Kacperacy/RustEdit (CLI)
+# Kacperacy/RustEdit (CLI) (Rust)
 https://github.com/Kacperacy/RustEdit
 ## Demo
 https://github.com/Kacperacy/RustEdit/assets/51511929/0bc56f65-3537-43d9-8281-83ce89759eba
@@ -2291,7 +2291,7 @@ RustEdit is a text editor developed in Rust, utilizing the [ratatui](https://git
 | Size of Files                | 682 KB |
 | Size of Git repository       | 1005 KB |
     
-# dawidcieszynski/smart-doorphone (Embedded IoT)
+# dawidcieszynski/smart-doorphone (Embedded IoT) (C++)
 https://github.com/dawidcieszynski/smart-doorphone
 ## Demo
 Not provided
@@ -2338,7 +2338,7 @@ The SmartDoorPhone project aims to create a device that integrates with Home Ass
 | Size of Files                | 317 KB |
 | Size of Git repository       | 308 KB |
     
-# wardzinskim/my-budget (Aplikacja webowa)
+# wardzinskim/my-budget (Aplikacja webowa) (C#)
 https://github.com/wardzinskim/my-budget
 ## Demo
 https://my-budget-app.azurewebsites.net
@@ -2377,7 +2377,7 @@ myBudget is an open-source web application designed to help users manage persona
 | Size of Files                | 9283 KB |
 | Size of Git repository       | 1893 KB |
     
-# mkurc1/climbingcrux_model (Inne)
+# mkurc1/climbingcrux_model (Inne) (Python)
 https://github.com/mkurc1/climbingcrux_model
 ## Demo
 Not provided
@@ -2420,7 +2420,7 @@ The Climbing Crux Model is a machine-learning project that leverages the YOLOv9 
 | Size of Files                | 47981 KB |
 | Size of Git repository       | 851466 KB |
     
-# Raptek/timeular-api (Biblioteka)
+# Raptek/timeular-api (Biblioteka) (PHP)
 https://github.com/Raptek/timeular-api
 ## Demo
 Not provided
@@ -2459,7 +2459,7 @@ The Timeular API project provides a PHP library to interact with the Timeular ti
 | Size of Files                | 231 KB |
 | Size of Git repository       | 365 KB |
     
-# awcz/torch (Gra)
+# awcz/torch (Gra) (Kotlin)
 https://github.com/awcz/torch
 ## Demo
 https://awcz.github.io/torch/
@@ -2498,7 +2498,7 @@ Gra platformowa napisana w... Kotlinie ;) Nie pozwól pochodni zgasnąć, uważa
 | Size of Files                | 2322 KB |
 | Size of Git repository       | 5664 KB |
     
-# Szogunn/MessengerX (Aplikacja webowa)
+# Szogunn/MessengerX (Aplikacja webowa) (Java)
 https://github.com/Szogunn/MessengerX
 ## Demo
 Not provided
@@ -2537,7 +2537,7 @@ MessengerX to aplikacja do komunikacji w czasie rzeczywistym, umożliwiająca u�
 | Size of Files                | 336 KB |
 | Size of Git repository       | 362 KB |
     
-# kubawajs/nursery-nav (Aplikacja webowa)
+# kubawajs/nursery-nav (Aplikacja webowa) (TypeScript)
 https://github.com/kubawajs/nursery-nav
 ## Demo
 https://znajdzzlobek.pl/
@@ -2579,7 +2579,7 @@ Nursery-Nav is a project designed to simplify the search for nearby nursery scho
 | Size of Files                | 50070 KB |
 | Size of Git repository       | 11466 KB |
     
-# wbiegala/receipt-analyzer (Aplikacja webowa)
+# wbiegala/receipt-analyzer (Aplikacja webowa) (C#)
 https://github.com/wbiegala/receipt-analyzer
 ## Demo
 Not provided
@@ -2618,7 +2618,7 @@ The 100commitów project, undertaken as part of the [100commitów 2024 edition](
 | Size of Files                | 1119012 KB |
 | Size of Git repository       | 1152835 KB |
     
-# andrzejlatocha/kaizenITSM (Aplikacja webowa)
+# andrzejlatocha/kaizenITSM (Aplikacja webowa) (C#)
 https://github.com/andrzejlatocha/kaizenITSM
 ## Demo
 Not provided
@@ -2657,7 +2657,7 @@ kaizenITSM is a comprehensive IT Service Management (ITSM) solution designed to 
 | Size of Files                | 79541 KB |
 | Size of Git repository       | 56822 KB |
     
-# dasli333/rpg-campaign-manager (Aplikacja webowa)
+# dasli333/rpg-campaign-manager (Aplikacja webowa) (TypeScript)
 https://github.com/dasli333/rpg-campaign-manager
 ## Demo
 Not provided
@@ -2700,7 +2700,7 @@ The RPG Campaign Manager is a comprehensive application designed to enhance role
 | Size of Files                | 2617 KB |
 | Size of Git repository       | 1931 KB |
     
-# luckyluk07/ExpenseGuard (Aplikacja webowa)
+# luckyluk07/ExpenseGuard (Aplikacja webowa) (C#)
 https://github.com/luckyluk07/ExpenseGuard
 ## Demo
 Not provided
@@ -2739,7 +2739,7 @@ ExpenseGuard is an application aimed at helping users manage their finances by t
 | Size of Files                | 965 KB |
 | Size of Git repository       | 520 KB |
     
-# pw-order-of-devs/rusty_ops (Narzędzie)
+# pw-order-of-devs/rusty_ops (Narzędzie) (Rust)
 https://github.com/pw-order-of-devs/rusty_ops
 ## Demo
 Not provided
@@ -2778,7 +2778,7 @@ RustyOps is a CI/CD system developed in Rust, featuring various integrated modul
 | Size of Files                | 473 KB |
 | Size of Git repository       | 2723 KB |
     
-# Tenteed/homespaces (Narzędzie)
+# Tenteed/homespaces (Narzędzie) (Rust)
 https://github.com/Tenteed/homespaces
 ## Demo
 Not provided
@@ -2817,7 +2817,7 @@ Homespaces is a productivity application designed to create a distraction-free e
 | Size of Files                | 587 KB |
 | Size of Git repository       | 874 KB |
     
-# 23vbq/tv-managing-system (Infrastruktura)
+# 23vbq/tv-managing-system (Infrastruktura) (C++)
 https://github.com/23vbq/tv-managing-system
 ## Demo
 Not provided
@@ -2856,7 +2856,7 @@ The "tv-managing-system" (TMS) project is an open-source solution designed to im
 | Size of Files                | 665 KB |
 | Size of Git repository       | 1021 KB |
     
-# krzyspie/Euro2024Challenge (Aplikacja webowa)
+# krzyspie/Euro2024Challenge (Aplikacja webowa) (C#)
 https://github.com/krzyspie/Euro2024Challenge
 ## Demo
 Not provided
@@ -2895,7 +2895,7 @@ The Euro 2024 Challenge app is an engaging platform for football enthusiasts to 
 | Size of Files                | 169 KB |
 | Size of Git repository       | 321 KB |
     
-# susnil/FutureMirror (Aplikacja mobilna)
+# susnil/FutureMirror (Aplikacja mobilna) (Kotlin)
 https://github.com/susnil/FutureMirror
 ## Demo
 Not provided
@@ -2941,7 +2941,7 @@ Future Mirror is a smart mirror application designed to display various types of
 | Size of Files                | 750 KB |
 | Size of Git repository       | 813 KB |
     
-# darksv/uwasm (Biblioteka)
+# darksv/uwasm (Biblioteka) (Rust)
 https://github.com/darksv/uwasm
 ## Demo
 Not provided
@@ -2980,7 +2980,7 @@ The uWasm project is a runtime for executing WebAssembly (Wasm) modules, specifi
 | Size of Files                | 688 KB |
 | Size of Git repository       | 374 KB |
     
-# bazko1/habitui (Inne)
+# bazko1/habitui (Inne) (Go)
 https://github.com/bazko1/habitui
 ## Demo
 ./docs/demo.gif
@@ -3022,7 +3022,7 @@ The "habittui" project is a terminal-based application developed to aid users in
 | Size of Files                | 764 KB |
 | Size of Git repository       | 814 KB |
     
-# alqemic/MotiPrompt (Aplikacja mobilna)
+# alqemic/MotiPrompt (Aplikacja mobilna) (Python)
 https://github.com/alqemic/MotiPrompt
 ## Demo
 https://youtu.be/Az4adlf8iUk
@@ -3061,7 +3061,7 @@ MotiPrompt is an Android application tailored to inspire users through curated m
 | Size of Files                | 40559 KB |
 | Size of Git repository       | 40528 KB |
     
-# monpie3/nonogram (Aplikacja webowa)
+# monpie3/nonogram (Aplikacja webowa) (Python)
 https://github.com/monpie3/nonogram
 ## Demo
 https://nonogram-hfdi.onrender.com/
@@ -3103,7 +3103,7 @@ The "nonogram" project is a web application designed to generate and solve logic
 | Size of Files                | 1180 KB |
 | Size of Git repository       | 1146 KB |
     
-# Gacut/ZabezpieczDusze (Aplikacja mobilna)
+# Gacut/ZabezpieczDusze (Aplikacja mobilna) (Python)
 https://github.com/Gacut/ZabezpieczDusze
 ## Demo
 Not provided
@@ -3142,7 +3142,7 @@ Aplikacja do zbierania myśli w formie tekstowej oraz wideo z funkcją szyfrowan
 | Size of Files                | 251 KB |
 | Size of Git repository       | 315 KB |
     
-# yyx990805/100commitow-projekt (Aplikacja webowa)
+# yyx990805/100commitow-projekt (Aplikacja webowa) (JavaScript)
 https://github.com/yyx990805/100commitow-projekt
 ## Demo
 Not provided
@@ -3181,7 +3181,7 @@ The "100commitow-projekt" is an application designed to manage and display links
 | Size of Files                | 20 KB |
 | Size of Git repository       | 153 KB |
     
-# TomaszKrasienko/working-good.app (Aplikacja webowa)
+# TomaszKrasienko/working-good.app (Aplikacja webowa) (C#)
 https://github.com/TomaszKrasienko/working-good.app
 ## Demo
 Not provided
@@ -3220,7 +3220,7 @@ WorkingGood is a comprehensive ticketing application developed for small organiz
 | Size of Files                | 1043 KB |
 | Size of Git repository       | 2012 KB |
     
-# gabrieldrozd/Enscool (Aplikacja webowa)
+# gabrieldrozd/Enscool (Aplikacja webowa) (C#)
 https://github.com/gabrieldrozd/Enscool
 ## Demo
 Not provided
@@ -3259,7 +3259,7 @@ Enscool is a backend management system designed for private English schools, foc
 | Size of Files                | 626 KB |
 | Size of Git repository       | 669 KB |
     
-# RFLewandowski/resume-generator (Aplikacja webowa)
+# RFLewandowski/resume-generator (Aplikacja webowa) (TypeScript)
 https://github.com/RFLewandowski/resume-generator
 ## Demo
 https://RFLewandowski.github.io/resume-generator
@@ -3298,7 +3298,7 @@ Generator CVek to projekt mający na celu stworzenie intuicyjnego i estetycznego
 | Size of Files                | 1240 KB |
 | Size of Git repository       | 1048 KB |
     
-# jwalczak-dev/linux-dashboard (Aplikacja webowa)
+# jwalczak-dev/linux-dashboard (Aplikacja webowa) (Go)
 https://github.com/jwalczak-dev/linux-dashboard
 ## Demo
 Not provided
@@ -3337,7 +3337,7 @@ Linux dashboard
 | Size of Files                | 537 KB |
 | Size of Git repository       | 249 KB |
     
-# mjwpl/LoopLords (Aplikacja mobilna)
+# mjwpl/LoopLords (Aplikacja mobilna) (C#)
 https://github.com/mjwpl/LoopLords
 ## Demo
 {'android': 'Link to Google Play Store', 'ios': 'Link to Apple App Store'}
@@ -3376,7 +3376,7 @@ Loop Lords is a mobile application crafted to aid users in efficiently managing 
 | Size of Files                | 2727 KB |
 | Size of Git repository       | 1417 KB |
     
-# sq5rix/BlenderPythonLib (Biblioteka)
+# sq5rix/BlenderPythonLib (Biblioteka) (Python)
 https://github.com/sq5rix/BlenderPythonLib
 ## Demo
 Not provided
@@ -3415,7 +3415,7 @@ BPL is an open-source Blender Python Library Wrapper aimed at simplifying the cr
 | Size of Files                | 3140 KB |
 | Size of Git repository       | 3171 KB |
     
-# Cvaniak/Consistent (Narzędzie)
+# Cvaniak/Consistent (Narzędzie) (Python)
 https://github.com/Cvaniak/Consistent
 ## Demo
 Not provided
@@ -3454,7 +3454,7 @@ The "Faint Comments" project is a proof-of-concept tool designed for developers 
 | Size of Files                | 49 KB |
 | Size of Git repository       | 127 KB |
     
-# KarolMaliglowka/SurveysPortal (Aplikacja webowa)
+# KarolMaliglowka/SurveysPortal (Aplikacja webowa) (C#)
 https://github.com/KarolMaliglowka/SurveysPortal
 ## Demo
 Not provided
@@ -3493,7 +3493,7 @@ The "Survey's Portal" project is a comprehensive application designed to facilit
 | Size of Files                | 12420 KB |
 | Size of Git repository       | 8897 KB |
     
-# pawelprimus/IApp (Aplikacja webowa)
+# pawelprimus/IApp (Aplikacja webowa) (Java)
 https://github.com/pawelprimus/IApp
 ## Demo
 Not provided
@@ -3532,7 +3532,7 @@ IApp is a comprehensive web application designed to revolutionize the management
 | Size of Files                | 1803 KB |
 | Size of Git repository       | 1529 KB |
     
-# JacquesM27/PathPilot (Aplikacja webowa)
+# JacquesM27/PathPilot (Aplikacja webowa) (C#)
 https://github.com/JacquesM27/PathPilot
 ## Demo
 Not provided
@@ -3571,7 +3571,7 @@ PathPilot is a comprehensive travel planning application designed to simplify th
 | Size of Files                | 1098 KB |
 | Size of Git repository       | 1124 KB |
     
-# MagicCactus42/susurri (Aplikacja webowa)
+# MagicCactus42/susurri (Aplikacja webowa) (C#)
 https://github.com/MagicCactus42/susurri
 ## Demo
 Not provided
@@ -3610,7 +3610,7 @@ Susurri is a web-based messaging application developed by Michał, also known as
 | Size of Files                | 25788 KB |
 | Size of Git repository       | 11158 KB |
     
-# Bartekkur1/OnlyMemes (Aplikacja webowa)
+# Bartekkur1/OnlyMemes (Aplikacja webowa) (TypeScript)
 https://github.com/Bartekkur1/OnlyMemes
 ## Demo
 https://shorturl.at/eP0Fm
@@ -3649,7 +3649,7 @@ OnlyMemes is a humorous, community-driven platform aimed at creators who can sha
 | Size of Files                | 862 KB |
 | Size of Git repository       | 953 KB |
     
-# rusin94/modern-football-supporters (Aplikacja webowa)
+# rusin94/modern-football-supporters (Aplikacja webowa) (C#)
 https://github.com/rusin94/modern-football-supporters
 ## Demo
 Not provided
@@ -3688,7 +3688,7 @@ This project appears to be a comprehensive community-centric platform designed t
 | Size of Files                | 748 KB |
 | Size of Git repository       | 331 KB |
     
-# pohlaniacz/wysiwihyg (Aplikacja webowa)
+# pohlaniacz/wysiwihyg (Aplikacja webowa) (JavaScript)
 https://github.com/pohlaniacz/wysiwihyg
 ## Demo
 https://wysiwihyg.netlify.app
@@ -3727,7 +3727,7 @@ Builder stron, jako WYSIWYG w reakcie, w stylu dodawania slidera na stronę, map
 | Size of Files                | 3076 KB |
 | Size of Git repository       | 2980 KB |
     
-# marek-gaw/TubeManager (Narzędzie)
+# marek-gaw/TubeManager (Narzędzie) (C#)
 https://github.com/marek-gaw/TubeManager
 ## Demo
 Not provided
@@ -3766,7 +3766,7 @@ TubeManager is a bookmark management application designed specifically for onlin
 | Size of Files                | 754 KB |
 | Size of Git repository       | 1293 KB |
     
-# Elldrigar/na-regale (Aplikacja webowa)
+# Elldrigar/na-regale (Aplikacja webowa) (TypeScript)
 https://github.com/Elldrigar/na-regale
 ## Demo
 Not provided
@@ -3805,7 +3805,7 @@ Aplikacja webowa w której przechowasz wszystkie swoje 'dobra', na przykład Pł
 | Size of Files                | 1494 KB |
 | Size of Git repository       | 1519 KB |
     
-# PietrovW/Mercurius (Narzędzie)
+# PietrovW/Mercurius (Narzędzie) (C#)
 https://github.com/PietrovW/Mercurius
 ## Demo
 Not provided
@@ -3851,7 +3851,7 @@ Readme Mercurius is a comprehensive error-tracking application designed to detec
 | Size of Files                | 1793 KB |
 | Size of Git repository       | 2192 KB |
     
-# StalowyAndrzej/e-commerce-backend (Aplikacja webowa)
+# StalowyAndrzej/e-commerce-backend (Aplikacja webowa) (Ruby)
 https://github.com/StalowyAndrzej/e-commerce-backend
 ## Demo
 Not provided
@@ -3890,7 +3890,7 @@ The E-commerce Backend project is designed to provide the server-side functional
 | Size of Files                | 58 KB |
 | Size of Git repository       | 1335 KB |
     
-# czekem/excel_love (Narzędzie)
+# czekem/excel_love (Narzędzie) (Python)
 https://github.com/czekem/excel_love
 ## Demo
 Not provided
@@ -3930,7 +3930,7 @@ EasySelect is a Python-based application specifically crafted to streamline the 
 | Size of Files                | 1785 KB |
 | Size of Git repository       | 3344 KB |
     
-# matizaj/go-apps (Inne)
+# matizaj/go-apps (Inne) (Go)
 https://github.com/matizaj/go-apps
 ## Demo
 Not provided
@@ -3969,7 +3969,7 @@ The "Microservices in Golang" project is a practical exercise in implementing a 
 | Size of Files                | 225885 KB |
 | Size of Git repository       | 178676 KB |
     
-# MegiJ/plannerApp (Aplikacja webowa)
+# MegiJ/plannerApp (Aplikacja webowa) (Java)
 https://github.com/MegiJ/plannerApp
 ## Demo
 Not provided
@@ -4008,7 +4008,7 @@ The "MyPlanner" application is a planning and calendar tool designed to help use
 | Size of Files                | 79 KB |
 | Size of Git repository       | 254 KB |
     
-# bsacharski/rust-conventional-commits (CLI)
+# bsacharski/rust-conventional-commits (CLI) (Rust)
 https://github.com/bsacharski/rust-conventional-commits
 ## Demo
 Not provided
@@ -4047,7 +4047,7 @@ The "Rust Conventional Commits" project provides tools to adhere to the Conventi
 | Size of Files                | 71 KB |
 | Size of Git repository       | 140 KB |
     
-# pawelkurlenda/cafard (Narzędzie)
+# pawelkurlenda/cafard (Narzędzie) (Rust)
 https://github.com/pawelkurlenda/cafard
 ## Demo
 Not provided
@@ -4086,7 +4086,7 @@ Cafard is a distributed cache server written in Rust, designed to offer scalabil
 | Size of Files                | 53 KB |
 | Size of Git repository       | 181 KB |
     
-# mharbuz/itttoc-exercises (Inne)
+# mharbuz/itttoc-exercises (Inne) (Inny)
 https://github.com/mharbuz/itttoc-exercises
 ## Demo
 https://mharbuz.github.io/itttoc-exercises/
@@ -4129,7 +4129,7 @@ This project comprises solutions to exercises from Michael Sipser's "Introductio
 | Size of Files                | 1117 KB |
 | Size of Git repository       | 560 KB |
     
-# tyson90/luggage-sharing (Aplikacja mobilna)
+# tyson90/luggage-sharing (Aplikacja mobilna) (TypeScript)
 https://github.com/tyson90/luggage-sharing
 ## Demo
 Not provided
@@ -4170,7 +4170,7 @@ The project is accompanied by descriptive documentation that includes an English
 | Size of Files                | 858 KB |
 | Size of Git repository       | 682 KB |
     
-# piotr-wrobel/100com_project (Embedded IoT)
+# piotr-wrobel/100com_project (Embedded IoT) (C++)
 https://github.com/piotr-wrobel/100com_project
 ## Demo
 https://youtu.be/zcHwlS6AHhI
@@ -4209,7 +4209,7 @@ The "100com_project" is a microcontroller-based project for the "100 commits" ch
 | Size of Files                | 418 KB |
 | Size of Git repository       | 268 KB |
     
-# elhispanopolako/personalSite (Aplikacja webowa)
+# elhispanopolako/personalSite (Aplikacja webowa) (JavaScript)
 https://github.com/elhispanopolako/personalSite
 ## Demo
 https://elhispanopolako.github.io/personalSite/
@@ -4251,7 +4251,7 @@ The Personal Portfolio Site repository hosts the code for an online portfolio de
 | Size of Files                | 1881 KB |
 | Size of Git repository       | 3840 KB |
     
-# SokolAK/TeamTelly (Aplikacja webowa)
+# SokolAK/TeamTelly (Aplikacja webowa) (Java)
 https://github.com/SokolAK/TeamTelly
 ## Demo
 Not provided
@@ -4290,7 +4290,7 @@ TeamTally is an application designed to boost productivity and motivation within
 | Size of Files                | 923 KB |
 | Size of Git repository       | 1382 KB |
     
-# KlaudiaLapisz/MoviesRating (Aplikacja webowa)
+# KlaudiaLapisz/MoviesRating (Aplikacja webowa) (C#)
 https://github.com/KlaudiaLapisz/MoviesRating
 ## Demo
 Not provided
@@ -4329,7 +4329,7 @@ The "MoviesRating" project is a Web API built using .NET 8 and an SQL Server dat
 | Size of Files                | 269 KB |
 | Size of Git repository       | 235 KB |
     
-# hsoczewka/e-kid (Aplikacja webowa)
+# hsoczewka/e-kid (Aplikacja webowa) (C#)
 https://github.com/hsoczewka/e-kid
 ## Demo
 Not provided
@@ -4368,7 +4368,7 @@ e-Kid is a .NET 8 based multi-tenancy SaaS application designed to manage Psycho
 | Size of Files                | 143 KB |
 | Size of Git repository       | 242 KB |
     
-# papugamichal/100commits (Inne)
+# papugamichal/100commits (Inne) (C#)
 https://github.com/papugamichal/100commits
 ## Demo
 Not provided
@@ -4407,7 +4407,7 @@ The "100commits" project is a .NET-based initiative aiming to explore and implem
 | Size of Files                | 1320 KB |
 | Size of Git repository       | 240 KB |
     
-# arksimatic/hoarder (Gra)
+# arksimatic/hoarder (Gra) (C#)
 https://github.com/arksimatic/hoarder
 ## Demo
 Not provided
@@ -4447,7 +4447,7 @@ Hoarder is an indie 2D pixel-art game in its early stages of development. The de
 | Size of Files                | 338 KB |
 | Size of Git repository       | 357 KB |
     
-# JakubRoks1/int-prep-app (Aplikacja webowa)
+# JakubRoks1/int-prep-app (Aplikacja webowa) (Java)
 https://github.com/JakubRoks1/int-prep-app
 ## Demo
 Not provided
@@ -4486,7 +4486,7 @@ IntPrep is a comprehensive job interview preparation web application developed a
 | Size of Files                | 134 KB |
 | Size of Git repository       | 242 KB |
     
-# barpaw/blog (Aplikacja webowa)
+# barpaw/blog (Aplikacja webowa) (C#)
 https://github.com/barpaw/blog
 ## Demo
 Not provided
@@ -4525,7 +4525,7 @@ The project is an open-source blog web application designed to be managed direct
 | Size of Files                | 7591 KB |
 | Size of Git repository       | 9273 KB |
     
-# miroslawjagiello/sound-analyzer (Aplikacja desktopowa)
+# miroslawjagiello/sound-analyzer (Aplikacja desktopowa) (Java)
 https://github.com/miroslawjagiello/sound-analyzer
 ## Demo
 Not provided
@@ -4564,7 +4564,7 @@ The "100 commitów" challenge application, available at https://100commitow.pl/,
 | Size of Files                | 5451 KB |
 | Size of Git repository       | 2339 KB |
     
-# Limanov/c100-game (Gra)
+# Limanov/c100-game (Gra) (JavaScript)
 https://github.com/Limanov/c100-game
 ## Demo
 Not provided
@@ -4603,7 +4603,7 @@ The "c100-game" project is an endeavor to create a game inspired by the classic 
 | Size of Files                | 16 KB |
 | Size of Git repository       | 87 KB |
     
-# krulkamyl/my-animal-shelter (Aplikacja webowa)
+# krulkamyl/my-animal-shelter (Aplikacja webowa) (PHP)
 https://github.com/krulkamyl/my-animal-shelter
 ## Demo
 Not provided
@@ -4642,7 +4642,7 @@ NexoLink is a project that appears to involve an unexpected shift in complexity,
 | Size of Files                | 1025 KB |
 | Size of Git repository       | 1882 KB |
     
-# MJakubowska359/100commits-project (Inne)
+# MJakubowska359/100commits-project (Inne) (TypeScript)
 https://github.com/MJakubowska359/100commits-project
 ## Demo
 Not provided
@@ -4681,7 +4681,7 @@ This project contains a suite of automated tests for the web application availab
 | Size of Files                | 1647 KB |
 | Size of Git repository       | 1665 KB |
     
-# ajkvision/works-for-me (Aplikacja webowa)
+# ajkvision/works-for-me (Aplikacja webowa) (C#)
 https://github.com/ajkvision/works-for-me
 ## Demo
 Not provided
@@ -4720,7 +4720,7 @@ This project is a simple application designed to perform and execute SMOTE (Synt
 | Size of Files                | 21657 KB |
 | Size of Git repository       | 2121 KB |
     
-# Bebodeveloper/100commitow (Inne)
+# Bebodeveloper/100commitow (Inne) (C#)
 https://github.com/Bebodeveloper/100commitow
 ## Demo
 Not provided
